@@ -32,6 +32,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/data/latest.json
-          git diff --staged --quiet || git commit -m "chore: update latest deals $(date -u +%Y-%m-%d)"
+          git add public/data/latest.json public/data/history.json
+          git diff --staged --quiet || git commit -m "chore: update deals history $(date -u +%Y-%m-%d)"
           git push
