@@ -1,23 +1,48 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useMemo } from 'react';
 
 export default function Home() {
-  const [data, setData] = useState(null);
+  const [history, setHistory] = useState(null);
+  const [selectedDate, setSelectedDate] = useState(null);
   const [loading, setLoading] = useState(true);
   const [tab, setTab] = useState('offers'); // offers | jetso | price
   const [search, setSearch] = useState('');
   const [storeFilter, setStoreFilter] = useState('ALL');
 
   useEffect(() => {
-    fetch('/data/latest.json')
+    fetch('/data/history.json')
       .then((r) => r.json())
-      .then((d) => {
-        setData(d);
+      .then((h) => {
+        setHistory(h);
+        if (h?.days?.length) {
+          setSelectedDate(h.days[0].date); // 預設最新一日
+        }
         setLoading(false);
       })
-      .catch(() => setLoading(false));
+      .catch(() => {
+        // fallback 到 latest.json
+        fetch('/data/latest.json')
+          .then((r) => r.json())
+          .then((d) => {
+            if (d && (d.priceWatch || d.jetso)) {
+              const day = {
+                date: d.date || '今日',
+                ...d,
+              };
+              setHistory({ days: [day] });
+              setSelectedDate(day.date);
+            }
+            setLoading(false);
+          })
+          .catch(() => setLoading(false));
+      });
   }, []);
+
+  const data = useMemo(() => {
+    if (!history?.days?.length || !selectedDate) return null;
+    return history.days.find((d) => d.date === selectedDate) || history.days[0];
+  }, [history, selectedDate]);
 
   if (loading) {
     return (
@@ -37,13 +62,13 @@ export default function Home() {
   }
 
   const stores = ['ALL', 'WELLCOME', 'PARKNSHOP', 'AEON', 'JASONS', 'WATSONS', 'MANNINGS', 'SASA', 'LUNGFUNG'];
+  const availableDates = (history?.days || []).map((d) => d.date);
 
-  // 有特價嘅貨品（offers 唔係空）
+  // 有特價嘅貨品
   let offerItems = (data.priceWatch || []).filter(
     (p) => Array.isArray(p.offers) && p.offers.length > 0
   );
 
-  // 過濾特價
   if (search) {
     const q = search.toLowerCase();
     offerItems = offerItems.filter(
@@ -60,7 +85,6 @@ export default function Home() {
     );
   }
 
-  // 過濾全部格價
   let filteredPrice = data.priceWatch || [];
   if (search) {
     const q = search.toLowerCase();
@@ -77,7 +101,6 @@ export default function Home() {
     );
   }
 
-  // 過濾 Jetso
   let filteredJetso = data.jetso || [];
   if (search) {
     const q = search.toLowerCase();
@@ -104,7 +127,6 @@ export default function Home() {
         {p.brand} · {p.category}
       </div>
 
-      {/* 價格 */}
       <div style={{ display: 'flex', flexWrap: 'wrap', gap: 8, marginBottom: 6 }}>
         {(p.prices || []).map((pr, i) => (
           <span
@@ -121,7 +143,6 @@ export default function Home() {
         ))}
       </div>
 
-      {/* 特價／優惠 */}
       {(p.offers || []).length > 0 && (
         <div style={{ marginTop: 6 }}>
           {(p.offers || []).map((o, i) => (
@@ -145,18 +166,50 @@ export default function Home() {
   return (
     <div style={{ maxWidth: 960, margin: '0 auto', padding: '16px' }}>
       {/* Header */}
-      <header style={{ marginBottom: 24 }}>
-        <h1 style={{ margin: 0, fontSize: 28 }}>🇭🇰 香港今日著數</h1>
+      <header style={{ marginBottom: 20 }}>
+        <h1 style={{ margin: 0, fontSize: 26 }}>🇭🇰 香港今日著數</h1>
         <p style={{ margin: '8px 0 0', color: '#666', fontSize: 14 }}>
           更新時間：{data.updatedAtHKT || data.updatedAt}
           <br />
-          格價資訊通 {data.priceWatchCount} 件 · 有特價約 {offerItems.length} 件 · Jetso Club {data.jetsoCount} 則
+          格價資訊通 {data.priceWatchCount ?? (data.priceWatch || []).length} 件 ·
+          有特價約 {offerItems.length} 件 · Jetso Club {data.jetsoCount ?? (data.jetso || []).length} 則
           <br />
           <span style={{ fontSize: 12, color: '#888' }}>
-            資料來源：消委會格價資訊通 + Jetso Club
+            資料來源：消委會格價資訊通 + Jetso Club · 保留最近 7 日
           </span>
         </p>
       </header>
+
+      {/* 日期選擇 */}
+      {availableDates.length > 0 && (
+        <div style={{ marginBottom: 16 }}>
+          <div style={{ fontSize: 13, color: '#666', marginBottom: 6 }}>選擇日期</div>
+          <div style={{ display: 'flex', flexWrap: 'wrap', gap: 6, overflowX: 'auto' }}>
+            {availableDates.map((d) => (
+              <button
+                key={d}
+                onClick={() => {
+                  setSelectedDate(d);
+                  setSearch('');
+                }}
+                style={{
+                  padding: '8px 14px',
+                  border: 'none',
+                  borderRadius: 20,
+                  background: selectedDate === d ? '#111' : '#eee',
+                  color: selectedDate === d ? '#fff' : '#333',
+                  fontSize: 13,
+                  fontWeight: selectedDate === d ? 600 : 400,
+                  cursor: 'pointer',
+                  whiteSpace: 'nowrap',
+                }}
+              >
+                {d}
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
 
       {/* Search */}
       <div style={{ marginBottom: 16 }}>
@@ -255,22 +308,19 @@ export default function Home() {
       {tab === 'offers' && (
         <div style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
           {offerItems.length === 0 && (
-            <p style={{ color: '#888', textAlign: 'center', padding: 20 }}>
-              暫時冇特價資料，請先執行更新
+            <p style={{ color: '#888', textAlign: 'center', padding: 24 }}>
+              暫時冇特價資料
             </p>
           )}
-          {offerItems.slice(0, 150).map((p) => renderProductCard(p, true))}
-          {offerItems.length > 150 && (
-            <p style={{ textAlign: 'center', color: '#888' }}>
-              只顯示前 150 件特價貨品，請用搜尋縮小範圍
-            </p>
-          )}
+          {offerItems.map((p) => renderProductCard(p, true))}
         </div>
       )}
 
       {tab === 'jetso' && (
         <div style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
-          {filteredJetso.length === 0 && <p style={{ color: '#888' }}>冇搵到相關優惠</p>}
+          {filteredJetso.length === 0 && (
+            <p style={{ color: '#888', textAlign: 'center', padding: 24 }}>冇搵到相關優惠</p>
+          )}
           {filteredJetso.map((item, i) => (
             <a
               key={i}
@@ -291,7 +341,15 @@ export default function Home() {
               <div style={{ fontSize: 13, color: '#666', marginBottom: 4 }}>
                 {item.content}
               </div>
-              <div style={{ fontSize: 12, color: '#999', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+              <div
+                style={{
+                  fontSize: 12,
+                  color: '#999',
+                  display: 'flex',
+                  justifyContent: 'space-between',
+                  alignItems: 'center',
+                }}
+              >
                 <span>{item.pubDate}</span>
                 <span style={{ color: '#888' }}>來源：Jetso Club</span>
               </div>
@@ -302,34 +360,55 @@ export default function Home() {
 
       {tab === 'price' && (
         <div style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
-          {filteredPrice.length === 0 && <p style={{ color: '#888' }}>冇搵到相關貨品</p>}
-          {filteredPrice.slice(0, 100).map((p) => renderProductCard(p, false))}
-          {filteredPrice.length > 100 && (
-            <p style={{ textAlign: 'center', color: '#888' }}>
-              只顯示前 100 件，請用搜尋縮小範圍
+          {filteredPrice.length === 0 && (
+            <p style={{ color: '#888', textAlign: 'center', padding: 24 }}>冇搵到相關貨品</p>
+          )}
+          {filteredPrice.slice(0, 200).map((p) => renderProductCard(p))}
+          {filteredPrice.length > 200 && (
+            <p style={{ textAlign: 'center', color: '#888', fontSize: 13 }}>
+              只顯示前 200 件，請用搜尋收窄結果
             </p>
           )}
         </div>
       )}
 
-      <footer style={{ marginTop: 40, padding: 20, textAlign: 'center', color: '#666', fontSize: 13, lineHeight: 1.6 }}>
+      <footer
+        style={{
+          marginTop: 40,
+          padding: 20,
+          textAlign: 'center',
+          color: '#666',
+          fontSize: 13,
+          lineHeight: 1.6,
+        }}
+      >
         <div style={{ marginBottom: 8, fontWeight: 600 }}>資料來源</div>
         <div>
           超市格價及特價：消費者委員會「格價資訊通」
           <br />
-          <a href="https://online-price-watch.consumer.org.hk/opw" target="_blank" rel="noopener noreferrer" style={{ color: '#0070f3' }}>
+          <a
+            href="https://online-price-watch.consumer.org.hk/opw"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ color: '#0070f3' }}
+          >
             online-price-watch.consumer.org.hk
           </a>
         </div>
         <div style={{ marginTop: 8 }}>
           最新優惠：Jetso Club 著數俱樂部
           <br />
-          <a href="https://www.jetsoclub.com" target="_blank" rel="noopener noreferrer" style={{ color: '#0070f3' }}>
+          <a
+            href="https://www.jetsoclub.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ color: '#0070f3' }}
+          >
             jetsoclub.com
           </a>
         </div>
         <div style={{ marginTop: 12, color: '#999', fontSize: 12 }}>
-          本站只顯示即日資料 · 僅作資訊參考 · 全免費開放數據
+          保留最近 7 日資料 · 僅作資訊參考 · 全免費開放數據
         </div>
       </footer>
     </div>
