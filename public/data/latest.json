@@ -1,7 +1,7 @@
 {
   "date": "2026-10-18",
-  "updatedAt": "2026-10-18T03:55:08.189Z",
-  "updatedAtHKT": "18/10/2026 上午11:55:08",
+  "updatedAt": "2026-10-18T08:23:26.517Z",
+  "updatedAtHKT": "18/10/2026 下午4:23:26",
   "priceWatchCount": 2736,
   "jetsoCount": 25,
   "priceWatch": [
@@ -34856,7 +34856,7 @@
       "prices": [
         {
           "store": "WELLCOME",
-          "price": "75.00"
+          "price": "88.00"
         },
         {
           "store": "PARKNSHOP",
@@ -34864,7 +34864,7 @@
         },
         {
           "store": "JASONS",
-          "price": "75.00"
+          "price": "88.00"
         },
         {
           "store": "AEON",
@@ -41718,12 +41718,7 @@
           "price": "420.00"
         }
       ],
-      "offers": [
-        {
-          "store": "PARKNSHOP",
-          "text": "全線精選嬰兒奶粉買4件，可享9折優惠。"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000002325",
@@ -41759,7 +41754,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "text": "全線精選嬰兒奶粉買4件，可享9折優惠。 / 買1件送1件"
+          "text": "買1件送1件"
         },
         {
           "store": "JASONS",
@@ -42099,12 +42094,7 @@
           "price": "359.00"
         }
       ],
-      "offers": [
-        {
-          "store": "PARKNSHOP",
-          "text": "Purchase 4 pc of Selected baby milk, enjoy 10% off."
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000003112",
@@ -42137,12 +42127,7 @@
           "price": "355.00"
         }
       ],
-      "offers": [
-        {
-          "store": "PARKNSHOP",
-          "text": "Purchase 4 pc of Selected baby milk, enjoy 10% off."
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000003113",
@@ -42175,12 +42160,7 @@
           "price": "330.00"
         }
       ],
-      "offers": [
-        {
-          "store": "PARKNSHOP",
-          "text": "Purchase 4 pc of Selected baby milk, enjoy 10% off."
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000003355",
@@ -42415,7 +42395,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "text": "全線精選嬰兒奶粉買4件，可享9折優惠。 / 買2件慳$60.00"
+          "text": "買2件慳$60.00"
         },
         {
           "store": "JASONS",
@@ -42469,7 +42449,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "text": "全線精選嬰兒奶粉買4件，可享9折優惠。 / 買2件慳$54.00"
+          "text": "買2件慳$54.00"
         },
         {
           "store": "JASONS",
@@ -42523,7 +42503,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "text": "全線精選嬰兒奶粉買4件，可享9折優惠。 / 買2件慳$44.00"
+          "text": "買2件慳$44.00"
         },
         {
           "store": "JASONS",
@@ -42738,7 +42718,7 @@
       "offers": [
         {
           "store": "PARKNSHOP",
-          "text": "買2件慳$86.00 / Buy 2 to save $86.00"
+          "text": "Buy 2 to save $86.00"
         }
       ]
     },
@@ -42776,7 +42756,7 @@
       "offers": [
         {
           "store": "PARKNSHOP",
-          "text": "買2件慳$80.00 / Buy 2 to save $80.00"
+          "text": "Buy 2 to save $80.00"
         }
       ]
     },
@@ -42814,7 +42794,7 @@
       "offers": [
         {
           "store": "PARKNSHOP",
-          "text": "買2件慳$76.00 / Buy 2 to save $76.00"
+          "text": "Buy 2 to save $76.00"
         }
       ]
     },
@@ -42881,7 +42861,7 @@
       "offers": [
         {
           "store": "PARKNSHOP",
-          "text": "買2件慳$108.00 / Buy 2 to save $108.00"
+          "text": "Buy 2 to save $108.00"
         }
       ]
     },
@@ -42919,7 +42899,7 @@
       "offers": [
         {
           "store": "PARKNSHOP",
-          "text": "買2件慳$98.00 / Buy 2 to save $98.00"
+          "text": "Buy 2 to save $98.00"
         }
       ]
     },
@@ -47920,7 +47900,7 @@
         },
         {
           "store": "LUNGFUNG",
-          "price": "26.00"
+          "price": "35.00"
         }
       ],
       "offers": []
@@ -53485,10 +53465,6 @@
           "price": "21.00"
         },
         {
-          "store": "WATSONS",
-          "price": "19.90"
-        },
-        {
           "store": "MANNINGS",
           "price": "19.90"
         },
@@ -53501,10 +53477,6 @@
         {
           "store": "PARKNSHOP",
           "text": "買2件慳$3.80"
-        },
-        {
-          "store": "WATSONS",
-          "text": "買2件只需$36.00"
         }
       ]
     },
@@ -67027,6 +66999,30 @@
   ],
   "jetso": [
     {
+      "title": "麥當勞App： 「Monday麥麥勁賞」第42週電子優惠券（19/10起）",
+      "link": "http://www.jetsoclub.com/2026/10/app-monday421910.html",
+      "pubDate": "2026-10-18T08:00:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "大生生活超市：快閃優惠（至25/10）",
+      "link": "http://www.jetsoclub.com/2026/10/2510.html",
+      "pubDate": "2026-10-18T05:54:52.533Z",
+      "content": ""
+    },
+    {
+      "title": "龍豐：每週精選推廣（19-25/10）",
+      "link": "http://www.jetsoclub.com/2026/10/19-2510.html",
+      "pubDate": "2026-10-18T05:00:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "OK便利店：會員至抵價（至21/10）",
+      "link": "http://www.jetsoclub.com/2026/10/ok2110.html",
+      "pubDate": "2026-10-18T03:30:00.000Z",
+      "content": ""
+    },
+    {
       "title": "奇華餅家：今期推介（至22/10）",
       "link": "http://www.jetsoclub.com/2026/10/2210_01911036518.html",
       "pubDate": "2026-10-18T02:00:00.000Z",
@@ -67150,30 +67146,6 @@
       "title": "稻香：頭牌小菜 $1加配優惠",
       "link": "http://www.jetsoclub.com/2026/10/1.html",
       "pubDate": "2026-10-16T06:00:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "優品360：本週優惠（至22/10）",
-      "link": "http://www.jetsoclub.com/2026/10/3602210_0165274741.html",
-      "pubDate": "2026-10-16T05:00:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "A-1 Bakery：秋日限定 深秋和栗風味焦糖吐司 ",
-      "link": "http://www.jetsoclub.com/2026/10/a-1-bakery_0933720700.html",
-      "pubDate": "2026-10-16T04:45:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "2026-27年度 防災應急資訊日 @灣仔（17/10）",
-      "link": "http://www.jetsoclub.com/2026/10/2026-27-1710.html",
-      "pubDate": "2026-10-16T04:35:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "三得利：免費派發 原味烏龍 ",
-      "link": "http://www.jetsoclub.com/2026/10/blog-post_901.html",
-      "pubDate": "2026-10-16T04:30:00.000Z",
       "content": ""
     }
   ]
