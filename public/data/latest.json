@@ -1,8 +1,8 @@
 {
   "date": "2026-10-25",
-  "updatedAt": "2026-10-25T04:03:10.405Z",
-  "updatedAtHKT": "25/10/2026 下午12:03:10",
-  "priceWatchCount": 2732,
+  "updatedAt": "2026-10-25T08:47:27.568Z",
+  "updatedAtHKT": "25/10/2026 下午4:47:27",
+  "priceWatchCount": 2729,
   "jetsoCount": 25,
   "priceWatch": [
     {
@@ -683,19 +683,6 @@
         {
           "store": "PARKNSHOP",
           "price": "29.00"
-        }
-      ],
-      "offers": []
-    },
-    {
-      "code": "P000005402",
-      "brand": "佳之選",
-      "name": "迷你酸種牛角酥 6個",
-      "category": "麵包蛋糕 / 穀類早餐 / 麵包醬",
-      "prices": [
-        {
-          "store": "PARKNSHOP",
-          "price": "22.00"
         }
       ],
       "offers": []
@@ -4977,7 +4964,7 @@
         },
         {
           "store": "AEON",
-          "price": "6.50"
+          "price": "6.00"
         }
       ],
       "offers": [
@@ -14248,19 +14235,6 @@
       ]
     },
     {
-      "code": "P000004565",
-      "brand": "超值牌",
-      "name": "香脆酥餅 350克",
-      "category": "糖果 / 餅乾 / 小食",
-      "prices": [
-        {
-          "store": "PARKNSHOP",
-          "price": "10.00"
-        }
-      ],
-      "offers": []
-    },
-    {
       "code": "P000001274",
       "brand": "江戶",
       "name": "杏仁餅 133克",
@@ -17177,24 +17151,6 @@
         }
       ],
       "offers": []
-    },
-    {
-      "code": "P000004782",
-      "brand": "佳之選",
-      "name": "合桃 40克",
-      "category": "糖果 / 餅乾 / 小食",
-      "prices": [
-        {
-          "store": "PARKNSHOP",
-          "price": "15.90"
-        }
-      ],
-      "offers": [
-        {
-          "store": "PARKNSHOP",
-          "text": "買2件慳$11.90"
-        }
-      ]
     },
     {
       "code": "P000004766",
@@ -35416,7 +35372,7 @@
         },
         {
           "store": "AEON",
-          "price": "87.00"
+          "price": "59.90"
         }
       ],
       "offers": []
@@ -35441,7 +35397,7 @@
         },
         {
           "store": "AEON",
-          "price": "25.90"
+          "price": "20.00"
         }
       ],
       "offers": [
@@ -52568,7 +52524,7 @@
       "offers": [
         {
           "store": "MANNINGS",
-          "text": "精選潔美淨產品8折"
+          "text": "20%off"
         }
       ]
     },
@@ -55896,7 +55852,7 @@
         },
         {
           "store": "LUNGFUNG",
-          "price": "67.00"
+          "price": "69.00"
         }
       ],
       "offers": [
@@ -56376,7 +56332,7 @@
         },
         {
           "store": "LUNGFUNG",
-          "price": "195.00"
+          "price": "198.00"
         }
       ],
       "offers": []
@@ -56426,7 +56382,7 @@
         },
         {
           "store": "LUNGFUNG",
-          "price": "168.00"
+          "price": "175.00"
         }
       ],
       "offers": []
@@ -56833,7 +56789,7 @@
       "prices": [
         {
           "store": "DCHFOOD",
-          "price": "50.00"
+          "price": "268.00"
         }
       ],
       "offers": []
@@ -67461,6 +67417,24 @@
   ],
   "jetso": [
     {
+      "title": "麥當勞App： 「Monday麥麥勁賞」電子優惠券（26/10起）",
+      "link": "http://www.jetsoclub.com/2026/10/app-monday2610.html",
+      "pubDate": "2026-10-25T07:13:07.000Z",
+      "content": ""
+    },
+    {
+      "title": "龍豐：每週精選推廣（26/10-1/11）",
+      "link": "http://www.jetsoclub.com/2026/10/2610-111.html",
+      "pubDate": "2026-10-25T05:00:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "OK便利店：店長推介 / 震撼價（至4/11）",
+      "link": "http://www.jetsoclub.com/2026/10/ok-411.html",
+      "pubDate": "2026-10-25T03:30:00.000Z",
+      "content": ""
+    },
+    {
       "title": "譚仔雲南米線：晚市 全新「迷你砂鍋一人餐」",
       "link": "http://www.jetsoclub.com/2026/10/blog-post_398.html",
       "pubDate": "2026-10-25T02:30:00.000Z",
@@ -67476,6 +67450,12 @@
       "title": "永年士多：APP會員限定 惠顧任何麵類 送咖喱三寶",
       "link": "http://www.jetsoclub.com/2026/10/app.html",
       "pubDate": "2026-10-25T01:30:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "U士多：秒殺價（至29/10）",
+      "link": "http://www.jetsoclub.com/2026/10/u2910.html",
+      "pubDate": "2026-10-25T01:15:00.000Z",
       "content": ""
     },
     {
@@ -67584,30 +67564,6 @@
       "title": "美心西餅： 新登場 岩燒芝士蛋糕",
       "link": "http://www.jetsoclub.com/2026/10/blog-post_24.html",
       "pubDate": "2026-10-24T00:53:38.231Z",
-      "content": ""
-    },
-    {
-      "title": "屈臣氏：火熱搶（24/10）",
-      "link": "http://www.jetsoclub.com/2026/10/2410_01700166555.html",
-      "pubDate": "2026-10-24T00:30:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "惠康超級市場最新優惠（24/10）",
-      "link": "http://www.jetsoclub.com/2026/10/2410_01952041828.html",
-      "pubDate": "2026-10-23T23:38:14.919Z",
-      "content": ""
-    },
-    {
-      "title": "百佳超級市場最新優惠（24/10）",
-      "link": "http://www.jetsoclub.com/2026/10/2410_0806639426.html",
-      "pubDate": "2026-10-23T23:29:18.138Z",
-      "content": ""
-    },
-    {
-      "title": "AEON：週末限時放題（24/10）",
-      "link": "http://www.jetsoclub.com/2026/10/aeon2410.html",
-      "pubDate": "2026-10-23T23:25:00.000Z",
       "content": ""
     }
   ]
