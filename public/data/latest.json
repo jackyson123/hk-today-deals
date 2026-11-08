@@ -1,8 +1,8 @@
 {
   "date": "2026-11-08",
-  "updatedAt": "2026-11-07T16:07:18.282Z",
-  "updatedAtHKT": "8/11/2026 上午12:07:18",
-  "priceWatchCount": 2734,
+  "updatedAt": "2026-11-08T05:26:20.331Z",
+  "updatedAtHKT": "8/11/2026 下午1:26:20",
+  "priceWatchCount": 2735,
   "jetsoCount": 25,
   "priceWatch": [
     {
@@ -4640,7 +4640,7 @@
         },
         {
           "store": "AEON",
-          "price": "6.90"
+          "price": "6.00"
         }
       ],
       "offers": [
@@ -17486,11 +17486,11 @@
       "prices": [
         {
           "store": "WELLCOME",
-          "price": "89.80"
+          "price": "99.80"
         },
         {
           "store": "PARKNSHOP",
-          "price": "89.90"
+          "price": "99.90"
         },
         {
           "store": "JASONS",
@@ -18837,7 +18837,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "price": "85.90"
+          "price": "92.90"
         },
         {
           "store": "JASONS",
@@ -19040,7 +19040,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "price": "85.90"
+          "price": "89.90"
         },
         {
           "store": "JASONS",
@@ -26488,7 +26488,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "price": "26.00"
+          "price": "30.00"
         },
         {
           "store": "JASONS",
@@ -34464,6 +34464,19 @@
       ]
     },
     {
+      "code": "P000000760",
+      "brand": "灣仔碼頭",
+      "name": "西洋菜豬肉水餃 180克",
+      "category": "粉麵 / 煮食用料 / 冷凍加工食品",
+      "prices": [
+        {
+          "store": "PARKNSHOP",
+          "price": "30.00"
+        }
+      ],
+      "offers": []
+    },
+    {
       "code": "P000003810",
       "brand": "御品皇",
       "name": "叉燒包 3件 144克",
@@ -34893,7 +34906,7 @@
         },
         {
           "store": "AEON",
-          "price": "25.90"
+          "price": "20.00"
         }
       ],
       "offers": [
@@ -45230,7 +45243,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "text": "買2件慳 $83.00"
+          "text": "Buy 2 to save $83.00"
         }
       ]
     },
@@ -45272,7 +45285,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "text": "買2件慳 $95.00"
+          "text": "Buy 2 to save $95.00"
         },
         {
           "store": "AEON",
@@ -45314,7 +45327,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "text": "買2件慳$53.20"
+          "text": "Buy 2 to save $53.20"
         }
       ]
     },
@@ -56407,20 +56420,11 @@
       "category": "個人護理",
       "prices": [
         {
-          "store": "WATSONS",
-          "price": "118.00"
-        },
-        {
           "store": "SASA",
           "price": "98.00"
         }
       ],
-      "offers": [
-        {
-          "store": "WATSONS",
-          "text": "第二件50%折扣"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000004954",
@@ -61198,7 +61202,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "text": "買3件慳$18.80"
+          "text": "Buy 3 to save $18.80"
         },
         {
           "store": "JASONS",
@@ -62778,7 +62782,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "text": "買2件慳 $21.80"
+          "text": "Buy 2 to save $21.80"
         },
         {
           "store": "JASONS",
@@ -62854,7 +62858,7 @@
       "offers": [
         {
           "store": "PARKNSHOP",
-          "text": "買2件慳$16.60"
+          "text": "買2件慳$24.70"
         },
         {
           "store": "WATSONS",
@@ -64642,7 +64646,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "text": "買3件$111.00 / 買2件慳$8.00"
+          "text": "買2件慳$8.00 / Buy 2 to save $8.00"
         },
         {
           "store": "JASONS",
@@ -64728,7 +64732,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "text": "買8件慳$25.00"
+          "text": "Buy 8 to save $25.00"
         },
         {
           "store": "JASONS",
@@ -64770,7 +64774,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "text": "買8件慳$20.00"
+          "text": "Buy 8 to save $20.00"
         },
         {
           "store": "JASONS",
@@ -67078,6 +67082,66 @@
   ],
   "jetso": [
     {
+      "title": "OK便利店：抵食套裝/1+1配到抵（至2/12）/ 店長推介（至18/10）",
+      "link": "http://www.jetsoclub.com/2026/11/ok11212-1810.html",
+      "pubDate": "2026-11-08T03:30:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "A-1 Bakery：新鮮烘焙系列新品 - 朱古力巨蛋包",
+      "link": "http://www.jetsoclub.com/2026/11/a-1-bakery.html",
+      "pubDate": "2026-11-08T02:30:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "WeChat Pay HK：11家商戶 掃碼享高達HK$30電子現金券 / 淘寶額外優惠",
+      "link": "http://www.jetsoclub.com/2026/11/wechat-pay-hk11-hk30.html",
+      "pubDate": "2026-11-08T02:00:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "一田：Staub × ZWILLING廚具系列 低至免費換購（至11/2）",
+      "link": "http://www.jetsoclub.com/2026/11/staub-zwilling-112.html",
+      "pubDate": "2026-11-08T01:30:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "東海堂：期間限定 比利時朱古力新地",
+      "link": "http://www.jetsoclub.com/2026/11/blog-post_08.html",
+      "pubDate": "2026-11-08T00:30:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "深水埗排燈節嘉年華2026（8/11）",
+      "link": "http://www.jetsoclub.com/2026/11/2026811.html",
+      "pubDate": "2026-11-08T00:00:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "樓上 / 余仁生：最新優惠（8/11）",
+      "link": "http://www.jetsoclub.com/2026/11/811_01353391206.html",
+      "pubDate": "2026-11-07T23:46:41.438Z",
+      "content": ""
+    },
+    {
+      "title": "百佳超級市場最新優惠（8/11）",
+      "link": "http://www.jetsoclub.com/2026/11/811_01751949863.html",
+      "pubDate": "2026-11-07T23:35:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "Chateraise：雙味泡芙3件組合優惠",
+      "link": "http://www.jetsoclub.com/2026/11/chateraise3.html",
+      "pubDate": "2026-11-07T23:30:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "萬寧：今日出位價（8/11）",
+      "link": "http://www.jetsoclub.com/2026/11/811_0369287557.html",
+      "pubDate": "2026-11-07T23:14:33.235Z",
+      "content": ""
+    },
+    {
       "title": "Uniqlo：11.11狂歡購 第二週限定優惠（至12/11）",
       "link": "http://www.jetsoclub.com/2026/11/uniqlo1111-1211.html",
       "pubDate": "2026-11-07T06:30:00.000Z",
@@ -67120,6 +67184,12 @@
       "content": ""
     },
     {
+      "title": "殘疾人士免費乘搭車船日 暨享用文康設施日（8/11）",
+      "link": "http://www.jetsoclub.com/2026/11/811_0575269970.html",
+      "pubDate": "2026-11-07T01:45:00.000Z",
+      "content": ""
+    },
+    {
       "title": "美心西餅：經典重現 復刻版「經典迷你黑森林蛋糕」/ Eatizen會員尊享 驚喜價 $98",
       "link": "http://www.jetsoclub.com/2026/11/eatizen-98.html",
       "pubDate": "2026-11-07T01:30:00.000Z",
@@ -67159,72 +67229,6 @@
       "title": "惠康超級市場最新優惠（7/11）",
       "link": "http://www.jetsoclub.com/2026/11/711_0320289630.html",
       "pubDate": "2026-11-06T23:26:14.873Z",
-      "content": ""
-    },
-    {
-      "title": "萬寧：今日出位價（7/11）",
-      "link": "http://www.jetsoclub.com/2026/11/711.html",
-      "pubDate": "2026-11-06T23:08:48.929Z",
-      "content": ""
-    },
-    {
-      "title": "優品360：最新優惠（至19/11）",
-      "link": "http://www.jetsoclub.com/2026/11/3601911.html",
-      "pubDate": "2026-11-06T08:00:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "Starbucks：全新「棉花糖麻糬系列」/ 港澳限定「提拉米蘇醇香系列」飲品",
-      "link": "http://www.jetsoclub.com/2026/11/starbucks.html",
-      "pubDate": "2026-11-06T07:30:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "撒隆巴斯：街頭活動 免費精美禮品（11月逢星期六日）",
-      "link": "http://www.jetsoclub.com/2026/11/11_0402493879.html",
-      "pubDate": "2026-11-06T07:00:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "奇華餅家：蛋卷節 指定蛋卷/臘腸/膶腸 8折優惠（7-15/11）",
-      "link": "http://www.jetsoclub.com/2026/11/87-1511.html",
-      "pubDate": "2026-11-06T06:58:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "惠康超市：秋日大節慶 全店88折（7/11）",
-      "link": "http://www.jetsoclub.com/2026/11/88711_0209408431.html",
-      "pubDate": "2026-11-06T06:30:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "安記海味：11.11大激賞（7-15/11）",
-      "link": "http://www.jetsoclub.com/2026/11/11117-1511.html",
-      "pubDate": "2026-11-06T06:00:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "美心MX：港式燒味 限時優惠 低至6折（至26/11）",
-      "link": "http://www.jetsoclub.com/2026/11/mx-62611.html",
-      "pubDate": "2026-11-06T05:30:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "屈臣氏：全場無門檻 88折（7/11）",
-      "link": "http://www.jetsoclub.com/2026/11/88711.html",
-      "pubDate": "2026-11-06T04:30:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "幸福醫藥：幸福傷風感冒熱飲流動車 免費試用裝及現金券（至8/11）",
-      "link": "http://www.jetsoclub.com/2026/11/811_01936969132.html",
-      "pubDate": "2026-11-06T04:15:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "大快活：全新登場「特製爆蒜醬」",
-      "link": "http://www.jetsoclub.com/2026/11/blog-post_521.html",
-      "pubDate": "2026-11-06T03:30:00.000Z",
       "content": ""
     }
   ]
