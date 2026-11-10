@@ -1,8 +1,8 @@
 {
   "date": "2026-11-10",
-  "updatedAt": "2026-11-09T20:26:12.823Z",
-  "updatedAtHKT": "10/11/2026 上午4:26:12",
-  "priceWatchCount": 2735,
+  "updatedAt": "2026-11-10T06:46:31.232Z",
+  "updatedAtHKT": "10/11/2026 下午2:46:31",
+  "priceWatchCount": 2734,
   "jetsoCount": 25,
   "priceWatch": [
     {
@@ -17486,7 +17486,7 @@
       "prices": [
         {
           "store": "WELLCOME",
-          "price": "88.80"
+          "price": "98.80"
         },
         {
           "store": "PARKNSHOP",
@@ -22952,11 +22952,11 @@
       "prices": [
         {
           "store": "WELLCOME",
-          "price": "14.00"
+          "price": "10.90"
         },
         {
           "store": "JASONS",
-          "price": "15.00"
+          "price": "10.90"
         }
       ],
       "offers": []
@@ -24397,23 +24397,6 @@
         {
           "store": "PARKNSHOP",
           "price": "27.90"
-        }
-      ],
-      "offers": []
-    },
-    {
-      "code": "P000004361",
-      "brand": "Meadows",
-      "name": "澳洲白薯 1千克",
-      "category": "米 / 食油 / 罐頭 / 蔬果 / 肉類",
-      "prices": [
-        {
-          "store": "WELLCOME",
-          "price": "20.00"
-        },
-        {
-          "store": "JASONS",
-          "price": "20.00"
         }
       ],
       "offers": []
@@ -39518,10 +39501,6 @@
           "price": "19.00"
         },
         {
-          "store": "WATSONS",
-          "price": "18.00"
-        },
-        {
           "store": "AEON",
           "price": "18.90"
         }
@@ -39538,10 +39517,6 @@
         {
           "store": "JASONS",
           "text": "買3件$44.00"
-        },
-        {
-          "store": "WATSONS",
-          "text": "買2件只需$30.00"
         }
       ]
     },
@@ -39557,7 +39532,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "price": "74.00"
+          "price": "64.90"
         },
         {
           "store": "JASONS",
@@ -39583,7 +39558,7 @@
       "prices": [
         {
           "store": "PARKNSHOP",
-          "price": "108.00"
+          "price": "85.00"
         }
       ],
       "offers": []
@@ -43193,16 +43168,7 @@
           "price": "305.00"
         }
       ],
-      "offers": [
-        {
-          "store": "WELLCOME",
-          "text": "指定產品3件9折"
-        },
-        {
-          "store": "JASONS",
-          "text": "指定產品3件9折"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000001786",
@@ -43252,16 +43218,7 @@
           "price": "110.00"
         }
       ],
-      "offers": [
-        {
-          "store": "WELLCOME",
-          "text": "指定產品3件9折"
-        },
-        {
-          "store": "JASONS",
-          "text": "指定產品3件9折"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000001034",
@@ -43282,16 +43239,7 @@
           "price": "198.00"
         }
       ],
-      "offers": [
-        {
-          "store": "WELLCOME",
-          "text": "指定產品3件9折"
-        },
-        {
-          "store": "JASONS",
-          "text": "指定產品3件9折"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000001018",
@@ -43345,16 +43293,7 @@
           "price": "255.00"
         }
       ],
-      "offers": [
-        {
-          "store": "WELLCOME",
-          "text": "指定產品3件9折"
-        },
-        {
-          "store": "JASONS",
-          "text": "指定產品3件9折"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000003130",
@@ -43422,16 +43361,7 @@
           "price": "108.00"
         }
       ],
-      "offers": [
-        {
-          "store": "WELLCOME",
-          "text": "指定產品3件9折"
-        },
-        {
-          "store": "JASONS",
-          "text": "指定產品3件9折"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000002673",
@@ -43459,7 +43389,7 @@
       "offers": [
         {
           "store": "WELLCOME",
-          "text": "買2件7折 / 指定產品3件9折"
+          "text": "買2件7折"
         },
         {
           "store": "PARKNSHOP",
@@ -43467,7 +43397,7 @@
         },
         {
           "store": "JASONS",
-          "text": "買2件7折 / 指定產品3件9折"
+          "text": "買2件7折"
         }
       ]
     },
@@ -43501,7 +43431,7 @@
       "offers": [
         {
           "store": "WELLCOME",
-          "text": "買2件7折 / 指定產品3件9折"
+          "text": "買2件7折"
         },
         {
           "store": "PARKNSHOP",
@@ -43509,7 +43439,7 @@
         },
         {
           "store": "JASONS",
-          "text": "買2件7折 / 指定產品3件9折"
+          "text": "買2件7折"
         }
       ]
     },
@@ -43566,16 +43496,7 @@
           "price": "92.00"
         }
       ],
-      "offers": [
-        {
-          "store": "WELLCOME",
-          "text": "指定產品3件9折"
-        },
-        {
-          "store": "JASONS",
-          "text": "指定產品3件9折"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000002994",
@@ -43604,16 +43525,7 @@
           "price": "138.90"
         }
       ],
-      "offers": [
-        {
-          "store": "WELLCOME",
-          "text": "指定產品3件9折"
-        },
-        {
-          "store": "JASONS",
-          "text": "指定產品3件9折"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000005100",
@@ -43650,16 +43562,7 @@
           "price": "120.00"
         }
       ],
-      "offers": [
-        {
-          "store": "WELLCOME",
-          "text": "指定產品3件9折"
-        },
-        {
-          "store": "JASONS",
-          "text": "指定產品3件9折"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000005101",
@@ -43692,16 +43595,7 @@
           "price": "205.00"
         }
       ],
-      "offers": [
-        {
-          "store": "WELLCOME",
-          "text": "指定產品3件9折"
-        },
-        {
-          "store": "JASONS",
-          "text": "指定產品3件9折"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000002671",
@@ -43733,7 +43627,7 @@
       "offers": [
         {
           "store": "WELLCOME",
-          "text": "買2件7折 / 指定產品3件9折"
+          "text": "買2件7折"
         },
         {
           "store": "PARKNSHOP",
@@ -43741,7 +43635,7 @@
         },
         {
           "store": "JASONS",
-          "text": "買2件7折 / 指定產品3件9折"
+          "text": "買2件7折"
         }
       ]
     },
@@ -43835,16 +43729,7 @@
           "price": "149.00"
         }
       ],
-      "offers": [
-        {
-          "store": "WELLCOME",
-          "text": "指定產品3件9折"
-        },
-        {
-          "store": "JASONS",
-          "text": "指定產品3件9折"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000003642",
@@ -48800,7 +48685,7 @@
         },
         {
           "store": "JASONS",
-          "price": "58.00"
+          "price": "57.00"
         },
         {
           "store": "WATSONS",
@@ -48842,7 +48727,7 @@
         },
         {
           "store": "JASONS",
-          "price": "58.00"
+          "price": "57.00"
         },
         {
           "store": "WATSONS",
@@ -54933,6 +54818,10 @@
       "prices": [
         {
           "store": "PARKNSHOP",
+          "price": "199.00"
+        },
+        {
+          "store": "WATSONS",
           "price": "199.00"
         },
         {
@@ -62515,7 +62404,7 @@
       "offers": [
         {
           "store": "PARKNSHOP",
-          "text": "買2件慳$18.00"
+          "text": "買2件慳$18.00 / 買3件$108.00"
         },
         {
           "store": "AEON",
@@ -62549,7 +62438,7 @@
       "offers": [
         {
           "store": "PARKNSHOP",
-          "text": "買2件慳$18.00"
+          "text": "買2件慳$18.00 / 買3件$108.00"
         },
         {
           "store": "AEON",
@@ -62591,7 +62480,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "text": "買2件慳$16.80"
+          "text": "買2件慳$16.80 / 買3件$120.00"
         },
         {
           "store": "JASONS",
@@ -64525,7 +64414,7 @@
         },
         {
           "store": "AEON",
-          "text": "買6件$52.00 / 9.00折"
+          "text": "買6件$52.00"
         },
         {
           "store": "DCHFOOD",
@@ -64575,7 +64464,7 @@
         },
         {
           "store": "AEON",
-          "text": "買6件$52.00 / 9.00折"
+          "text": "買6件$52.00"
         },
         {
           "store": "DCHFOOD",
@@ -64656,10 +64545,6 @@
         {
           "store": "JASONS",
           "text": "買2件$52.00"
-        },
-        {
-          "store": "AEON",
-          "text": "9.00折"
         }
       ]
     },
@@ -64780,10 +64665,6 @@
         {
           "store": "JASONS",
           "text": "買8件$55.00"
-        },
-        {
-          "store": "AEON",
-          "text": "9.00折"
         }
       ]
     },
@@ -64829,7 +64710,7 @@
         },
         {
           "store": "AEON",
-          "text": "買10件$93.00 / 9.00折"
+          "text": "買10件$93.00"
         }
       ]
     },
@@ -64871,7 +64752,7 @@
         },
         {
           "store": "AEON",
-          "text": "買4件$34.00 / 9.00折"
+          "text": "買4件$34.00"
         }
       ]
     },
@@ -64913,7 +64794,7 @@
         },
         {
           "store": "AEON",
-          "text": "買4件$34.00 / 9.00折"
+          "text": "買4件$34.00"
         }
       ]
     },
@@ -67129,6 +67010,84 @@
   ],
   "jetso": [
     {
+      "title": "馬拉松便服及運動名牌開倉 低至2折（11-16/11）",
+      "link": "http://www.jetsoclub.com/2026/11/211-1611.html",
+      "pubDate": "2026-11-10T05:51:19.909Z",
+      "content": ""
+    },
+    {
+      "title": "大家樂：激安 牛.豚旨味鍋物 $49（至13/10）",
+      "link": "http://www.jetsoclub.com/2026/11/491310.html",
+      "pubDate": "2026-11-10T04:30:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "名牌服飾開倉（11-16/11）",
+      "link": "http://www.jetsoclub.com/2026/11/11-1611.html",
+      "pubDate": "2026-11-10T04:15:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "龍豐：每週至抵「豐搶價」 （至16/11）",
+      "link": "http://www.jetsoclub.com/2026/11/1611_01842325854.html",
+      "pubDate": "2026-11-10T03:30:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "半島漁港：晚市 $1皇牌燒味 三選一",
+      "link": "http://www.jetsoclub.com/2026/11/1.html",
+      "pubDate": "2026-11-10T02:30:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "奇華餅家：升級配方 全牛油蛋卷",
+      "link": "http://www.jetsoclub.com/2026/11/blog-post_10.html",
+      "pubDate": "2026-11-10T02:00:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "一粥麵：秋冬暖心鍋系列 早鳥優惠（至16/10）",
+      "link": "http://www.jetsoclub.com/2026/11/1610.html",
+      "pubDate": "2026-11-10T01:30:39.071Z",
+      "content": ""
+    },
+    {
+      "title": "759 阿信屋：勁抵價（至11/11）",
+      "link": "http://www.jetsoclub.com/2026/11/759-1111.html",
+      "pubDate": "2026-11-10T00:12:05.832Z",
+      "content": ""
+    },
+    {
+      "title": "大同老餅家：臘味 買2斤 送1斤",
+      "link": "http://www.jetsoclub.com/2026/11/2-1.html",
+      "pubDate": "2026-11-10T00:05:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "萬寧 / 屈臣氏：會員日 全單95折（10/11）",
+      "link": "http://www.jetsoclub.com/2026/11/951011.html",
+      "pubDate": "2026-11-10T00:03:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "海馬牌：最新優惠（10/11）",
+      "link": "http://www.jetsoclub.com/2026/11/1011_0773090934.html",
+      "pubDate": "2026-11-10T00:00:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "惠康超級市場最新優惠（10/11）",
+      "link": "http://www.jetsoclub.com/2026/11/1011.html",
+      "pubDate": "2026-11-09T23:37:33.646Z",
+      "content": ""
+    },
+    {
+      "title": "Italian Tomato：雙十一週驚喜優惠（至15/11）",
+      "link": "http://www.jetsoclub.com/2026/11/italian-tomato1511.html",
+      "pubDate": "2026-11-09T22:06:00.000Z",
+      "content": ""
+    },
+    {
       "title": "大家樂：11.11激筍優惠 任你搶",
       "link": "http://www.jetsoclub.com/2026/11/1111.html",
       "pubDate": "2026-11-09T07:35:11.657Z",
@@ -67198,84 +67157,6 @@
       "title": "西樹泡芙 CHEZ CHOUX：11.11限時狂歡（至11/11）",
       "link": "http://www.jetsoclub.com/2026/11/chez-choux11111111.html",
       "pubDate": "2026-11-09T02:00:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "美心MX：70周年狂歡優惠 指定套餐 低至77折（至15/11）",
-      "link": "http://www.jetsoclub.com/2026/11/mx70-771511.html",
-      "pubDate": "2026-11-09T01:15:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "東海堂： 新產品 月島軟心芝士煙肉包",
-      "link": "http://www.jetsoclub.com/2026/11/blog-post_09.html",
-      "pubDate": "2026-11-09T01:00:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "惠康超級市場最新優惠（9/11）",
-      "link": "http://www.jetsoclub.com/2026/11/911_0664666601.html",
-      "pubDate": "2026-11-09T00:44:52.402Z",
-      "content": ""
-    },
-    {
-      "title": "7-Eleven：最新優惠（9/11）",
-      "link": "http://www.jetsoclub.com/2026/11/7-eleven911.html",
-      "pubDate": "2026-11-09T00:10:23.708Z",
-      "content": ""
-    },
-    {
-      "title": "百佳超級市場最新優惠（9/11）",
-      "link": "http://www.jetsoclub.com/2026/11/911_0471848771.html",
-      "pubDate": "2026-11-08T23:23:59.165Z",
-      "content": ""
-    },
-    {
-      "title": "萬寧：今日出位價（9/11）",
-      "link": "http://www.jetsoclub.com/2026/11/911_01240725338.html",
-      "pubDate": "2026-11-08T22:52:10.714Z",
-      "content": ""
-    },
-    {
-      "title": "MTR Mobile：港鐵即時賞（9/11）",
-      "link": "http://www.jetsoclub.com/2026/11/mtr-mobile911.html",
-      "pubDate": "2026-11-08T22:19:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "AEON：100周年限定特賣（至30/11）",
-      "link": "http://www.jetsoclub.com/2026/11/aeon1003011.html",
-      "pubDate": "2026-11-08T07:44:34.282Z",
-      "content": ""
-    },
-    {
-      "title": "大家樂：網購 打堅爐二人餐 $150",
-      "link": "http://www.jetsoclub.com/2026/11/150.html",
-      "pubDate": "2026-11-08T07:00:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "麥當勞App：全新下午茶優惠（9/11起）",
-      "link": "http://www.jetsoclub.com/2026/11/app911.html",
-      "pubDate": "2026-11-08T06:30:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "龍豐：每週精選推廣（9-15/11）",
-      "link": "http://www.jetsoclub.com/2026/11/9-1511.html",
-      "pubDate": "2026-11-08T05:45:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "奇華茶室：雙11優惠 黯然銷魂飯 晚市買1送1（9-12/11）",
-      "link": "http://www.jetsoclub.com/2026/11/11-119-1211.html",
-      "pubDate": "2026-11-08T05:15:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "中大中醫：健康月 中醫義診服務（9/11-9/12）",
-      "link": "http://www.jetsoclub.com/2026/11/911-912.html",
-      "pubDate": "2026-11-08T05:00:00.000Z",
       "content": ""
     }
   ]
