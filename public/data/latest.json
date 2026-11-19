@@ -1,8 +1,8 @@
 {
   "date": "2026-11-19",
-  "updatedAt": "2026-11-18T18:39:49.770Z",
-  "updatedAtHKT": "19/11/2026 上午2:39:49",
-  "priceWatchCount": 2778,
+  "updatedAt": "2026-11-19T06:48:57.311Z",
+  "updatedAtHKT": "19/11/2026 下午2:48:57",
+  "priceWatchCount": 2777,
   "jetsoCount": 25,
   "priceWatch": [
     {
@@ -710,7 +710,7 @@
         },
         {
           "store": "AEON",
-          "price": "11.00"
+          "price": "16.90"
         }
       ],
       "offers": []
@@ -1459,7 +1459,7 @@
         },
         {
           "store": "AEON",
-          "price": "24.90"
+          "price": "21.90"
         }
       ],
       "offers": [
@@ -3699,7 +3699,7 @@
         },
         {
           "store": "AEON",
-          "price": "99.50"
+          "price": "106.00"
         }
       ],
       "offers": []
@@ -3754,7 +3754,7 @@
         },
         {
           "store": "AEON",
-          "price": "92.00"
+          "price": "98.00"
         },
         {
           "store": "DCHFOOD",
@@ -3796,7 +3796,7 @@
         },
         {
           "store": "AEON",
-          "price": "99.50"
+          "price": "106.00"
         }
       ],
       "offers": []
@@ -3932,7 +3932,7 @@
         },
         {
           "store": "AEON",
-          "price": "6.00"
+          "price": "7.50"
         }
       ],
       "offers": [
@@ -4093,7 +4093,7 @@
         },
         {
           "store": "AEON",
-          "price": "5.00"
+          "price": "5.90"
         }
       ],
       "offers": [
@@ -4195,7 +4195,7 @@
         },
         {
           "store": "AEON",
-          "price": "7.90"
+          "price": "6.90"
         }
       ],
       "offers": [
@@ -4210,10 +4210,6 @@
         {
           "store": "JASONS",
           "text": "買2件送1件"
-        },
-        {
-          "store": "AEON",
-          "text": "買2件$10.90"
         }
       ]
     },
@@ -4237,7 +4233,7 @@
         },
         {
           "store": "AEON",
-          "price": "5.00"
+          "price": "6.90"
         }
       ],
       "offers": [
@@ -4378,13 +4374,17 @@
         },
         {
           "store": "AEON",
-          "price": "24.90"
+          "price": "25.90"
         }
       ],
       "offers": [
         {
           "store": "PARKNSHOP",
           "text": "買2件$49.90"
+        },
+        {
+          "store": "AEON",
+          "text": "買2件$45.90"
         }
       ]
     },
@@ -4426,7 +4426,7 @@
         },
         {
           "store": "AEON",
-          "text": "買3件$20.90"
+          "text": "買2件$15.50"
         }
       ]
     },
@@ -4486,7 +4486,7 @@
         },
         {
           "store": "AEON",
-          "text": "買3件$19.90"
+          "text": "買2件$13.90"
         }
       ]
     },
@@ -4544,7 +4544,7 @@
         },
         {
           "store": "AEON",
-          "price": "27.90"
+          "price": "29.90"
         }
       ],
       "offers": [
@@ -4600,7 +4600,7 @@
         },
         {
           "store": "AEON",
-          "text": "買3件$21.90"
+          "text": "買2件$16.50"
         }
       ]
     },
@@ -4620,15 +4620,10 @@
         },
         {
           "store": "AEON",
-          "price": "29.90"
+          "price": "27.90"
         }
       ],
-      "offers": [
-        {
-          "store": "AEON",
-          "text": "買2件$47.90"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000001927",
@@ -4667,7 +4662,7 @@
         },
         {
           "store": "AEON",
-          "price": "8.00"
+          "price": "6.50"
         }
       ],
       "offers": [
@@ -4682,10 +4677,6 @@
         {
           "store": "JASONS",
           "text": "買3件$21.00"
-        },
-        {
-          "store": "AEON",
-          "text": "買2件$13.90"
         }
       ]
     },
@@ -4739,7 +4730,7 @@
         },
         {
           "store": "AEON",
-          "price": "5.90"
+          "price": "6.90"
         }
       ],
       "offers": [
@@ -4754,6 +4745,10 @@
         {
           "store": "JASONS",
           "text": "買2件送1件"
+        },
+        {
+          "store": "AEON",
+          "text": "買2件$9.90"
         }
       ]
     },
@@ -4811,7 +4806,7 @@
         },
         {
           "store": "AEON",
-          "price": "5.90"
+          "price": "6.90"
         }
       ],
       "offers": [
@@ -4826,6 +4821,10 @@
         {
           "store": "JASONS",
           "text": "買2件送1件"
+        },
+        {
+          "store": "AEON",
+          "text": "買2件$9.90"
         }
       ]
     },
@@ -4939,7 +4938,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$48.90"
+          "text": "買2件$46.90"
         }
       ]
     },
@@ -6545,7 +6544,7 @@
         },
         {
           "store": "AEON",
-          "price": "31.90"
+          "price": "27.90"
         }
       ],
       "offers": [
@@ -6583,7 +6582,7 @@
         },
         {
           "store": "AEON",
-          "price": "31.90"
+          "price": "27.90"
         }
       ],
       "offers": [
@@ -6676,7 +6675,7 @@
         },
         {
           "store": "AEON",
-          "price": "5.00"
+          "price": "7.00"
         }
       ],
       "offers": [
@@ -6849,7 +6848,7 @@
         },
         {
           "store": "AEON",
-          "price": "10.00"
+          "price": "13.90"
         }
       ],
       "offers": [
@@ -7272,10 +7271,6 @@
         {
           "store": "PARKNSHOP",
           "text": "買3件慳$6.50"
-        },
-        {
-          "store": "AEON",
-          "text": "買3件$15.00"
         }
       ]
     },
@@ -7306,10 +7301,6 @@
         {
           "store": "PARKNSHOP",
           "text": "買3件慳$6.50"
-        },
-        {
-          "store": "AEON",
-          "text": "買3件$15.00"
         }
       ]
     },
@@ -7741,6 +7732,10 @@
         {
           "store": "JASONS",
           "text": "買2件$52.00"
+        },
+        {
+          "store": "AEON",
+          "text": "買3件$70.00"
         }
       ]
     },
@@ -7779,6 +7774,10 @@
         {
           "store": "JASONS",
           "text": "買2件$52.00"
+        },
+        {
+          "store": "AEON",
+          "text": "買3件$70.00"
         }
       ]
     },
@@ -7817,6 +7816,10 @@
         {
           "store": "JASONS",
           "text": "買2件$52.00"
+        },
+        {
+          "store": "AEON",
+          "text": "買3件$70.00"
         }
       ]
     },
@@ -7855,6 +7858,10 @@
         {
           "store": "JASONS",
           "text": "買2件$52.00"
+        },
+        {
+          "store": "AEON",
+          "text": "買3件$70.00"
         }
       ]
     },
@@ -7877,6 +7884,10 @@
         {
           "store": "PARKNSHOP",
           "text": "買2件慳$42.00"
+        },
+        {
+          "store": "AEON",
+          "text": "買3件$70.00"
         }
       ]
     },
@@ -8899,7 +8910,7 @@
         },
         {
           "store": "AEON",
-          "price": "3.00"
+          "price": "4.50"
         }
       ],
       "offers": [
@@ -8996,7 +9007,7 @@
         },
         {
           "store": "AEON",
-          "price": "11.90"
+          "price": "13.90"
         }
       ],
       "offers": []
@@ -9256,7 +9267,7 @@
         },
         {
           "store": "AEON",
-          "price": "5.00"
+          "price": "6.90"
         }
       ],
       "offers": []
@@ -9300,6 +9311,10 @@
         {
           "store": "WATSONS",
           "text": "買2件只需$45 / 買4件只需$88"
+        },
+        {
+          "store": "AEON",
+          "text": "買2件$44.90"
         }
       ]
     },
@@ -9342,6 +9357,10 @@
         {
           "store": "WATSONS",
           "text": "買2件只需$45"
+        },
+        {
+          "store": "AEON",
+          "text": "買2件$44.90"
         }
       ]
     },
@@ -9821,7 +9840,7 @@
         },
         {
           "store": "AEON",
-          "price": "6.00"
+          "price": "7.50"
         }
       ],
       "offers": [
@@ -10630,6 +10649,10 @@
         },
         {
           "store": "JASONS",
+          "price": "138.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "138.00"
         },
         {
@@ -11594,6 +11617,10 @@
           "price": "17.50"
         },
         {
+          "store": "MANNINGS",
+          "price": "17.50"
+        },
+        {
           "store": "DCHFOOD",
           "price": "21.00"
         }
@@ -11724,6 +11751,10 @@
           "price": "10.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "10.30"
+        },
+        {
           "store": "AEON",
           "price": "8.90"
         }
@@ -11740,6 +11771,10 @@
         {
           "store": "JASONS",
           "text": "買2件$19.90"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買2件$16.00"
         }
       ]
     },
@@ -11760,6 +11795,10 @@
         {
           "store": "JASONS",
           "price": "24.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "21.20"
         },
         {
           "store": "DCHFOOD",
@@ -11858,6 +11897,10 @@
         {
           "store": "WATSONS",
           "price": "11.50"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "10.30"
         }
       ],
       "offers": [
@@ -11872,6 +11915,10 @@
         {
           "store": "JASONS",
           "text": "買2件$19.90"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買2件$16.00"
         }
       ]
     },
@@ -16150,7 +16197,12 @@
           "price": "48.60"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "AEON",
+          "text": "9.00折"
+        }
+      ]
     },
     {
       "code": "P000003226",
@@ -16332,6 +16384,10 @@
         {
           "store": "JASONS",
           "price": "10.50"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "6.50"
         }
       ],
       "offers": [
@@ -16948,13 +17004,17 @@
         },
         {
           "store": "AEON",
-          "price": "20.00"
+          "price": "25.90"
         }
       ],
       "offers": [
         {
           "store": "PARKNSHOP",
           "text": "買2件慳$7.80"
+        },
+        {
+          "store": "AEON",
+          "text": "9.00折"
         }
       ]
     },
@@ -17437,7 +17497,7 @@
         },
         {
           "store": "AEON",
-          "price": "72.90"
+          "price": "69.90"
         }
       ],
       "offers": []
@@ -17450,7 +17510,7 @@
       "prices": [
         {
           "store": "WELLCOME",
-          "price": "91.80"
+          "price": "90.80"
         },
         {
           "store": "PARKNSHOP",
@@ -18114,7 +18174,7 @@
       "prices": [
         {
           "store": "PARKNSHOP",
-          "price": "36.00"
+          "price": "39.00"
         }
       ],
       "offers": []
@@ -18814,7 +18874,7 @@
         },
         {
           "store": "AEON",
-          "price": "89.90"
+          "price": "93.90"
         }
       ],
       "offers": []
@@ -18860,7 +18920,7 @@
         },
         {
           "store": "AEON",
-          "price": "105.90"
+          "price": "109.90"
         }
       ],
       "offers": []
@@ -19489,7 +19549,7 @@
         },
         {
           "store": "AEON",
-          "price": "18.00"
+          "price": "25.90"
         }
       ],
       "offers": []
@@ -19506,7 +19566,7 @@
         },
         {
           "store": "AEON",
-          "price": "69.90"
+          "price": "72.90"
         }
       ],
       "offers": []
@@ -21436,7 +21496,7 @@
         },
         {
           "store": "JASONS",
-          "text": "$52任揀3件"
+          "text": "買3件$52.00"
         }
       ]
     },
@@ -21549,7 +21609,7 @@
         },
         {
           "store": "AEON",
-          "price": "10.00"
+          "price": "13.90"
         }
       ],
       "offers": [
@@ -22215,7 +22275,7 @@
       "prices": [
         {
           "store": "AEON",
-          "price": "12.00"
+          "price": "19.90"
         }
       ],
       "offers": []
@@ -22262,7 +22322,7 @@
         },
         {
           "store": "AEON",
-          "price": "6.00"
+          "price": "9.90"
         }
       ],
       "offers": [
@@ -22823,7 +22883,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$30.00"
+          "text": "買2件$28.00"
         }
       ]
     },
@@ -23260,7 +23320,7 @@
         },
         {
           "store": "AEON",
-          "price": "8.00"
+          "price": "11.00"
         },
         {
           "store": "DCHFOOD",
@@ -23279,10 +23339,6 @@
         {
           "store": "JASONS",
           "text": "買2件$15.00"
-        },
-        {
-          "store": "AEON",
-          "text": "買2件$13.00"
         }
       ]
     },
@@ -23874,7 +23930,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$26.90"
+          "text": "買2件$29.50"
         }
       ]
     },
@@ -23920,7 +23976,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$26.90"
+          "text": "買2件$29.50"
         }
       ]
     },
@@ -23962,7 +24018,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$26.90"
+          "text": "買2件$29.50"
         }
       ]
     },
@@ -24008,7 +24064,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$26.90"
+          "text": "買2件$29.50"
         }
       ]
     },
@@ -24032,7 +24088,7 @@
         },
         {
           "store": "AEON",
-          "price": "15.00"
+          "price": "19.90"
         }
       ],
       "offers": []
@@ -24075,7 +24131,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$26.90"
+          "text": "買2件$29.50"
         }
       ]
     },
@@ -25034,7 +25090,7 @@
       "prices": [
         {
           "store": "PARKNSHOP",
-          "price": "197.90"
+          "price": "145.90"
         }
       ],
       "offers": []
@@ -25102,7 +25158,12 @@
           "price": "49.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "AEON",
+          "text": "9.00折"
+        }
+      ]
     },
     {
       "code": "P000005485",
@@ -25216,7 +25277,7 @@
       "prices": [
         {
           "store": "PARKNSHOP",
-          "price": "411.90"
+          "price": "308.90"
         }
       ],
       "offers": []
@@ -25281,7 +25342,7 @@
       "prices": [
         {
           "store": "PARKNSHOP",
-          "price": "88.00"
+          "price": "56.90"
         }
       ],
       "offers": []
@@ -25294,7 +25355,7 @@
       "prices": [
         {
           "store": "PARKNSHOP",
-          "price": "50.00"
+          "price": "45.90"
         }
       ],
       "offers": []
@@ -25346,7 +25407,7 @@
       "prices": [
         {
           "store": "PARKNSHOP",
-          "price": "110.90"
+          "price": "72.90"
         }
       ],
       "offers": []
@@ -25528,10 +25589,15 @@
       "prices": [
         {
           "store": "AEON",
-          "price": "25.00"
+          "price": "39.90"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "AEON",
+          "text": "9.00折"
+        }
+      ]
     },
     {
       "code": "P000005449",
@@ -25659,7 +25725,12 @@
           "price": "29.90"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "AEON",
+          "text": "9.00折"
+        }
+      ]
     },
     {
       "code": "P000005472",
@@ -25688,7 +25759,7 @@
       "offers": [
         {
           "store": "AEON",
-          "text": "買2件$70.00"
+          "text": "買2件$70.00 / 9.00折"
         }
       ]
     },
@@ -25700,10 +25771,15 @@
       "prices": [
         {
           "store": "AEON",
-          "price": "30.00"
+          "price": "49.90"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "AEON",
+          "text": "9.00折"
+        }
+      ]
     },
     {
       "code": "P000005502",
@@ -25716,7 +25792,12 @@
           "price": "32.90"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "AEON",
+          "text": "9.00折"
+        }
+      ]
     },
     {
       "code": "P000004663",
@@ -25726,7 +25807,7 @@
       "prices": [
         {
           "store": "PARKNSHOP",
-          "price": "123.90"
+          "price": "93.90"
         }
       ],
       "offers": []
@@ -25778,7 +25859,7 @@
       "prices": [
         {
           "store": "PARKNSHOP",
-          "price": "20.00"
+          "price": "18.90"
         }
       ],
       "offers": []
@@ -25809,6 +25890,10 @@
         {
           "store": "WELLCOME",
           "price": "36.00"
+        },
+        {
+          "store": "PARKNSHOP",
+          "price": "30.90"
         },
         {
           "store": "JASONS",
@@ -26802,7 +26887,7 @@
         },
         {
           "store": "AEON",
-          "text": "買10件$31.90"
+          "text": "買9件$31.90"
         }
       ]
     },
@@ -26844,7 +26929,7 @@
         },
         {
           "store": "AEON",
-          "text": "買10件$31.90"
+          "text": "買9件$31.90"
         }
       ]
     },
@@ -26890,7 +26975,7 @@
         },
         {
           "store": "AEON",
-          "text": "買10件$31.90"
+          "text": "買9件$31.90"
         }
       ]
     },
@@ -26957,7 +27042,7 @@
         },
         {
           "store": "AEON",
-          "text": "買10件$31.90"
+          "text": "買9件$31.90"
         }
       ]
     },
@@ -27016,7 +27101,7 @@
       "prices": [
         {
           "store": "AEON",
-          "price": "3.80"
+          "price": "4.90"
         }
       ],
       "offers": []
@@ -27998,7 +28083,7 @@
         },
         {
           "store": "AEON",
-          "price": "3.00"
+          "price": "4.90"
         }
       ],
       "offers": [
@@ -29623,7 +29708,7 @@
         },
         {
           "store": "AEON",
-          "price": "8.00"
+          "price": "10.50"
         }
       ],
       "offers": [
@@ -29725,6 +29810,10 @@
         },
         {
           "store": "JASONS",
+          "text": "買2件$18.00"
+        },
+        {
+          "store": "AEON",
           "text": "買2件$18.00"
         }
       ]
@@ -29837,7 +29926,7 @@
         },
         {
           "store": "AEON",
-          "price": "10.00"
+          "price": "15.90"
         }
       ],
       "offers": []
@@ -29862,7 +29951,7 @@
         },
         {
           "store": "AEON",
-          "price": "10.00"
+          "price": "12.90"
         }
       ],
       "offers": [
@@ -30187,7 +30276,12 @@
           "price": "27.90"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "AEON",
+          "text": "買2件$50.00"
+        }
+      ]
     },
     {
       "code": "P000002572",
@@ -30883,7 +30977,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$26.90"
+          "text": "買2件$29.50"
         }
       ]
     },
@@ -31716,6 +31810,10 @@
         {
           "store": "JASONS",
           "text": "買2件$32.00"
+        },
+        {
+          "store": "AEON",
+          "text": "買2件$30.00"
         }
       ]
     },
@@ -32851,7 +32949,7 @@
         },
         {
           "store": "AEON",
-          "text": "買3件$33.90"
+          "text": "買3件$42.90"
         }
       ]
     },
@@ -32909,14 +33007,19 @@
         },
         {
           "store": "AEON",
-          "price": "25.50"
+          "price": "26.90"
         },
         {
           "store": "DCHFOOD",
           "price": "30.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "AEON",
+          "text": "買2件$37.00"
+        }
+      ]
     },
     {
       "code": "P000001035",
@@ -33860,10 +33963,6 @@
         {
           "store": "PARKNSHOP",
           "text": "買2件$28.00"
-        },
-        {
-          "store": "AEON",
-          "text": "買2件$25.00"
         }
       ]
     },
@@ -33887,7 +33986,7 @@
         },
         {
           "store": "AEON",
-          "price": "6.00"
+          "price": "7.90"
         }
       ],
       "offers": [
@@ -34509,7 +34608,12 @@
           "price": "32.90"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "AEON",
+          "text": "買2件$46.90 / 9.00折"
+        }
+      ]
     },
     {
       "code": "P000001724",
@@ -34541,7 +34645,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$29.90"
+          "text": "買2件$29.90 / 9.00折"
         }
       ]
     },
@@ -34584,6 +34688,10 @@
         {
           "store": "JASONS",
           "text": "買3件$39.50"
+        },
+        {
+          "store": "AEON",
+          "text": "9.00折"
         }
       ]
     },
@@ -34660,6 +34768,10 @@
         {
           "store": "JASONS",
           "text": "買3件$39.50"
+        },
+        {
+          "store": "AEON",
+          "text": "9.00折"
         }
       ]
     },
@@ -34702,6 +34814,10 @@
         {
           "store": "JASONS",
           "text": "買3件$39.50"
+        },
+        {
+          "store": "AEON",
+          "text": "9.00折"
         }
       ]
     },
@@ -34744,6 +34860,10 @@
         {
           "store": "JASONS",
           "text": "買3件$39.50"
+        },
+        {
+          "store": "AEON",
+          "text": "9.00折"
         }
       ]
     },
@@ -34854,6 +34974,10 @@
         {
           "store": "JASONS",
           "text": "買3件$39.50"
+        },
+        {
+          "store": "AEON",
+          "text": "9.00折"
         }
       ]
     },
@@ -34892,6 +35016,10 @@
         {
           "store": "JASONS",
           "text": "買3件$39.50"
+        },
+        {
+          "store": "AEON",
+          "text": "9.00折"
         }
       ]
     },
@@ -34968,6 +35096,10 @@
         {
           "store": "JASONS",
           "text": "買2件$37.00"
+        },
+        {
+          "store": "AEON",
+          "text": "9.00折"
         }
       ]
     },
@@ -35006,6 +35138,10 @@
         {
           "store": "JASONS",
           "text": "買2件$33.00"
+        },
+        {
+          "store": "AEON",
+          "text": "9.00折"
         }
       ]
     },
@@ -35044,6 +35180,10 @@
         {
           "store": "JASONS",
           "text": "買2件$33.00"
+        },
+        {
+          "store": "AEON",
+          "text": "9.00折"
         }
       ]
     },
@@ -35082,6 +35222,10 @@
         {
           "store": "JASONS",
           "text": "買2件$33.00"
+        },
+        {
+          "store": "AEON",
+          "text": "9.00折"
         }
       ]
     },
@@ -35115,7 +35259,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$38.90"
+          "text": "買2件$38.90 / 9.00折"
         }
       ]
     },
@@ -35138,6 +35282,10 @@
         {
           "store": "PARKNSHOP",
           "text": "買2件慳$14.00"
+        },
+        {
+          "store": "AEON",
+          "text": "9.00折"
         }
       ]
     },
@@ -35164,7 +35312,12 @@
           "price": "15.90"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "AEON",
+          "text": "9.00折"
+        }
+      ]
     },
     {
       "code": "P000003948",
@@ -35331,7 +35484,7 @@
         },
         {
           "store": "AEON",
-          "text": "買4件$51.00"
+          "text": "買3件$54.00 / 9.00折"
         }
       ]
     },
@@ -35373,7 +35526,7 @@
         },
         {
           "store": "AEON",
-          "text": "買4件$51.00"
+          "text": "買3件$54.00 / 9.00折"
         }
       ]
     },
@@ -35399,7 +35552,7 @@
         },
         {
           "store": "AEON",
-          "text": "買4件$51.00"
+          "text": "買3件$54.00 / 9.00折"
         }
       ]
     },
@@ -35812,7 +35965,7 @@
         },
         {
           "store": "AEON",
-          "price": "25.90"
+          "price": "24.90"
         }
       ],
       "offers": []
@@ -35861,6 +36014,10 @@
         {
           "store": "JASONS",
           "text": "買2件$99.00"
+        },
+        {
+          "store": "AEON",
+          "text": "買2件$99.00"
         }
       ]
     },
@@ -35894,6 +36051,10 @@
         },
         {
           "store": "JASONS",
+          "text": "買2件$99.00"
+        },
+        {
+          "store": "AEON",
           "text": "買2件$99.00"
         }
       ]
@@ -36006,6 +36167,10 @@
         {
           "store": "JASONS",
           "text": "買2件$49.90"
+        },
+        {
+          "store": "AEON",
+          "text": "9.00折"
         }
       ]
     },
@@ -36028,7 +36193,12 @@
           "price": "59.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "AEON",
+          "text": "9.00折"
+        }
+      ]
     },
     {
       "code": "P000004812",
@@ -36078,6 +36248,10 @@
         {
           "store": "JASONS",
           "text": "買2件$38.00"
+        },
+        {
+          "store": "AEON",
+          "text": "買2件$37.90"
         }
       ]
     },
@@ -36119,7 +36293,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$23.90"
+          "text": "買2件$25.90"
         }
       ]
     },
@@ -36161,7 +36335,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$23.90"
+          "text": "買2件$25.90"
         }
       ]
     },
@@ -36244,7 +36418,12 @@
           "price": "46.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "AEON",
+          "text": "9.00折"
+        }
+      ]
     },
     {
       "code": "P000003726",
@@ -36408,7 +36587,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$36.00"
+          "text": "買2件$36.00 / 9.00折"
         }
       ]
     },
@@ -36450,7 +36629,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$36.00"
+          "text": "買2件$36.00 / 9.00折"
         }
       ]
     },
@@ -36473,7 +36652,12 @@
           "price": "49.90"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "AEON",
+          "text": "9.00折"
+        }
+      ]
     },
     {
       "code": "P000003498",
@@ -36494,7 +36678,12 @@
           "price": "34.90"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "AEON",
+          "text": "9.00折"
+        }
+      ]
     },
     {
       "code": "P000004428",
@@ -36617,7 +36806,7 @@
         },
         {
           "store": "AEON",
-          "price": "19.90"
+          "price": "9.90"
         }
       ],
       "offers": []
@@ -36734,7 +36923,7 @@
         },
         {
           "store": "AEON",
-          "price": "5.00"
+          "price": "11.90"
         },
         {
           "store": "DCHFOOD",
@@ -38722,32 +38911,6 @@
       "offers": []
     },
     {
-      "code": "P000003016",
-      "brand": "新西蘭康果",
-      "name": "冷榨蘋果汁 1公升",
-      "category": "飲品",
-      "prices": [
-        {
-          "store": "WELLCOME",
-          "price": "39.90"
-        },
-        {
-          "store": "PARKNSHOP",
-          "price": "33.90"
-        },
-        {
-          "store": "JASONS",
-          "price": "39.90"
-        }
-      ],
-      "offers": [
-        {
-          "store": "PARKNSHOP",
-          "text": "買2件慳$17.80"
-        }
-      ]
-    },
-    {
       "code": "P000003020",
       "brand": "新西蘭康果",
       "name": "冷榨橙汁 1公升",
@@ -39244,7 +39407,7 @@
         },
         {
           "store": "AEON",
-          "price": "48.90"
+          "price": "45.90"
         }
       ],
       "offers": []
@@ -39680,6 +39843,10 @@
         {
           "store": "WATSONS",
           "text": "買2件只需$29"
+        },
+        {
+          "store": "AEON",
+          "text": "買2件$33.90"
         }
       ]
     },
@@ -39858,10 +40025,6 @@
         {
           "store": "PARKNSHOP",
           "text": "買3件慳$9.00"
-        },
-        {
-          "store": "AEON",
-          "text": "買2件$14.00"
         }
       ]
     },
@@ -39942,6 +40105,10 @@
         {
           "store": "JASONS",
           "text": "買4件$40.00"
+        },
+        {
+          "store": "AEON",
+          "text": "買4件$39.90"
         }
       ]
     },
@@ -40150,10 +40317,6 @@
         {
           "store": "WATSONS",
           "text": "買2件只需$14"
-        },
-        {
-          "store": "AEON",
-          "text": "買2件$14.00"
         }
       ]
     },
@@ -40355,10 +40518,6 @@
           "price": "19.00"
         },
         {
-          "store": "WATSONS",
-          "price": "17.00"
-        },
-        {
           "store": "AEON",
           "price": "18.90"
         }
@@ -40371,10 +40530,6 @@
         {
           "store": "JASONS",
           "text": "買3件$44.00"
-        },
-        {
-          "store": "WATSONS",
-          "text": "買2件只需$34 / 買4件只需$56"
         },
         {
           "store": "AEON",
@@ -41504,8 +41659,16 @@
       ],
       "offers": [
         {
+          "store": "WELLCOME",
+          "text": "買2件$32.00"
+        },
+        {
           "store": "PARKNSHOP",
           "text": "買2件慳$9.00"
+        },
+        {
+          "store": "JASONS",
+          "text": "買2件$34.00"
         }
       ]
     },
@@ -42246,7 +42409,7 @@
         },
         {
           "store": "AEON",
-          "price": "10.00"
+          "price": "10.90"
         }
       ],
       "offers": [
@@ -42277,6 +42440,10 @@
         {
           "store": "WATSONS",
           "price": "325.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "325.00"
         }
       ],
       "offers": []
@@ -42297,6 +42464,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "305.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "305.00"
         },
         {
@@ -42325,6 +42496,10 @@
           "price": "275.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "275.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "250.00"
         }
@@ -42350,6 +42525,10 @@
           "price": "219.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "219.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "200.00"
         }
@@ -42365,6 +42544,10 @@
         {
           "store": "WATSONS",
           "price": "345.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "345.00"
         }
       ],
       "offers": []
@@ -42377,6 +42560,10 @@
       "prices": [
         {
           "store": "WATSONS",
+          "price": "345.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "345.00"
         }
       ],
@@ -42402,6 +42589,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "276.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "276.00"
         },
         {
@@ -42434,6 +42625,10 @@
           "price": "268.20"
         },
         {
+          "store": "MANNINGS",
+          "price": "268.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "245.00"
         }
@@ -42461,6 +42656,10 @@
         {
           "store": "WATSONS",
           "price": "250.20"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "250.00"
         },
         {
           "store": "LUNGFUNG",
@@ -42492,6 +42691,10 @@
           "price": "238.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "238.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "195.00"
         }
@@ -42519,6 +42722,10 @@
         {
           "store": "WATSONS",
           "price": "399.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "420.00"
         }
       ],
       "offers": [
@@ -42561,6 +42768,10 @@
         {
           "store": "WATSONS",
           "price": "350.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "350.00"
         }
       ],
       "offers": []
@@ -42581,6 +42792,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "326.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "326.00"
         },
         {
@@ -42613,6 +42828,10 @@
           "price": "320.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "320.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "260.00"
         }
@@ -42639,6 +42858,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "289.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "289.00"
         },
         {
@@ -42671,6 +42894,10 @@
           "price": "240.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "240.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "205.00"
         }
@@ -42697,6 +42924,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "508.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "508.00"
         },
         {
@@ -42729,6 +42960,10 @@
           "price": "498.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "498.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "380.00"
         }
@@ -42755,6 +42990,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "448.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "448.00"
         },
         {
@@ -42787,6 +43026,10 @@
           "price": "388.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "388.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "290.00"
         }
@@ -42813,6 +43056,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "383.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "383.00"
         },
         {
@@ -42845,6 +43092,10 @@
           "price": "383.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "383.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "359.00"
         }
@@ -42871,6 +43122,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "373.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "373.00"
         },
         {
@@ -42903,6 +43158,10 @@
           "price": "348.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "348.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "330.00"
         }
@@ -42929,6 +43188,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "305.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "305.00"
         },
         {
@@ -42961,6 +43224,10 @@
           "price": "305.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "305.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "250.00"
         }
@@ -42987,6 +43254,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "275.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "275.00"
         },
         {
@@ -43019,6 +43290,10 @@
           "price": "253.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "253.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "200.00"
         }
@@ -43047,6 +43322,10 @@
         {
           "store": "WATSONS",
           "price": "156.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "156.00"
         }
       ],
       "offers": []
@@ -43071,6 +43350,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "308.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "308.00"
         },
         {
@@ -43103,6 +43386,10 @@
           "price": "295.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "295.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "275.00"
         }
@@ -43123,6 +43410,10 @@
         {
           "store": "WATSONS",
           "text": "買2件或以上9折"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買2件$531.00"
         }
       ]
     },
@@ -43149,6 +43440,10 @@
           "price": "270.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "270.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "252.00"
         }
@@ -43169,6 +43464,10 @@
         {
           "store": "WATSONS",
           "text": "買2件或以上9折"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買2件$486.00"
         }
       ]
     },
@@ -43195,6 +43494,10 @@
           "price": "220.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "220.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "198.00"
         }
@@ -43215,6 +43518,10 @@
         {
           "store": "WATSONS",
           "text": "買2件或以上9折"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買2件$396.00"
         }
       ]
     },
@@ -43238,6 +43545,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "388.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "388.00"
         },
         {
@@ -43270,6 +43581,10 @@
           "price": "418.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "376.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "360.00"
         }
@@ -43296,6 +43611,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "358.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "358.00"
         },
         {
@@ -43328,6 +43647,10 @@
           "price": "348.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "348.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "298.00"
         }
@@ -43354,6 +43677,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "449.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "449.00"
         },
         {
@@ -43386,6 +43713,10 @@
           "price": "429.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "429.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "368.00"
         }
@@ -43412,6 +43743,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "399.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "399.00"
         },
         {
@@ -43444,6 +43779,10 @@
           "price": "379.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "379.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "308.00"
         }
@@ -43466,6 +43805,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "539.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "539.00"
         },
         {
@@ -43498,6 +43841,10 @@
           "price": "529.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "529.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "438.00"
         }
@@ -43527,6 +43874,10 @@
           "price": "469.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "469.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "415.00"
         }
@@ -43539,6 +43890,10 @@
       "name": "S-26 Gold Connect 1 初生嬰兒配方奶粉 850克",
       "category": "奶粉 / 嬰兒用品",
       "prices": [
+        {
+          "store": "MANNINGS",
+          "price": "275.00"
+        },
         {
           "store": "LUNGFUNG",
           "price": "248.00"
@@ -43553,6 +43908,10 @@
       "category": "奶粉 / 嬰兒用品",
       "prices": [
         {
+          "store": "MANNINGS",
+          "price": "275.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "228.00"
         }
@@ -43566,6 +43925,10 @@
       "category": "奶粉 / 嬰兒用品",
       "prices": [
         {
+          "store": "MANNINGS",
+          "price": "265.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "198.00"
         }
@@ -43578,6 +43941,10 @@
       "name": "S-26 Gold Connect 4 學兒成長配方奶粉 850克",
       "category": "奶粉 / 嬰兒用品",
       "prices": [
+        {
+          "store": "MANNINGS",
+          "price": "215.00"
+        },
         {
           "store": "LUNGFUNG",
           "price": "168.00"
@@ -43605,6 +43972,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "345.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "345.00"
         },
         {
@@ -43637,6 +44008,10 @@
           "price": "332.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "332.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "280.00"
         }
@@ -43663,6 +44038,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "283.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "283.00"
         },
         {
@@ -43695,6 +44074,10 @@
           "price": "235.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "235.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "190.00"
         }
@@ -43721,6 +44104,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "279.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "279.00"
         },
         {
@@ -43753,6 +44140,10 @@
           "price": "269.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "269.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "238.00"
         }
@@ -43782,6 +44173,10 @@
           "price": "269.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "269.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "240.00"
         }
@@ -43796,6 +44191,10 @@
       "prices": [
         {
           "store": "WATSONS",
+          "price": "239.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "239.00"
         },
         {
@@ -43822,6 +44221,10 @@
         {
           "store": "WATSONS",
           "price": "279.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "279.00"
         }
       ],
       "offers": []
@@ -43843,6 +44246,10 @@
         {
           "store": "JASONS",
           "price": "104.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "110.00"
         }
       ],
       "offers": []
@@ -43883,6 +44290,10 @@
           "price": "109.50"
         },
         {
+          "store": "MANNINGS",
+          "price": "109.50"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "109.00"
         }
@@ -43908,6 +44319,10 @@
           "price": "305.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "305.90"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "255.00"
         }
@@ -43921,6 +44336,10 @@
       "category": "奶粉 / 嬰兒用品",
       "prices": [
         {
+          "store": "MANNINGS",
+          "price": "149.90"
+        },
+        {
           "store": "DCHFOOD",
           "price": "149.00"
         },
@@ -43929,7 +44348,12 @@
           "price": "118.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "精選安怡奶粉9折"
+        }
+      ]
     },
     {
       "code": "P000001061",
@@ -44045,6 +44469,10 @@
         {
           "store": "WATSONS",
           "price": "149.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "149.00"
         }
       ],
       "offers": [
@@ -44065,6 +44493,10 @@
       "category": "奶粉 / 嬰兒用品",
       "prices": [
         {
+          "store": "MANNINGS",
+          "price": "128.00"
+        },
+        {
           "store": "DCHFOOD",
           "price": "128.00"
         },
@@ -44081,6 +44513,10 @@
       "name": "長青高鈣低脂奶粉 (51+ 歲) 1.7公斤",
       "category": "奶粉 / 嬰兒用品",
       "prices": [
+        {
+          "store": "MANNINGS",
+          "price": "229.00"
+        },
         {
           "store": "DCHFOOD",
           "price": "229.00"
@@ -44126,6 +44562,10 @@
         {
           "store": "WATSONS",
           "price": "138.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "138.90"
         }
       ],
       "offers": [
@@ -44144,6 +44584,10 @@
         {
           "store": "WATSONS",
           "text": "買2件只需$219"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買2件$219.00"
         }
       ]
     },
@@ -44167,6 +44611,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "138.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "138.90"
         },
         {
@@ -44194,6 +44642,10 @@
         {
           "store": "WATSONS",
           "text": "買2件只需$219"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買2件$219.00"
         }
       ]
     },
@@ -44217,6 +44669,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "259.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "259.90"
         },
         {
@@ -44247,6 +44703,10 @@
         {
           "store": "WATSONS",
           "price": "139.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "139.00"
         }
       ],
       "offers": [
@@ -44273,6 +44733,10 @@
         {
           "store": "WATSONS",
           "price": "126.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "126.00"
         }
       ],
       "offers": []
@@ -44289,6 +44753,10 @@
         },
         {
           "store": "JASONS",
+          "price": "250.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "250.00"
         },
         {
@@ -44336,6 +44804,10 @@
         {
           "store": "WATSONS",
           "price": "149.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "149.00"
         }
       ],
       "offers": []
@@ -44347,11 +44819,20 @@
       "category": "奶粉 / 嬰兒用品",
       "prices": [
         {
+          "store": "MANNINGS",
+          "price": "63.10"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "60.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "買3件送1件"
+        }
+      ]
     },
     {
       "code": "P000003188",
@@ -44426,6 +44907,10 @@
         {
           "store": "WATSONS",
           "price": "55.10"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "56.00"
         }
       ],
       "offers": [
@@ -44444,6 +44929,10 @@
         {
           "store": "WATSONS",
           "text": "買3送1"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買3件送1件"
         }
       ]
     },
@@ -44501,6 +44990,10 @@
           "price": "58.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "58.00"
+        },
+        {
           "store": "AEON",
           "price": "58.00"
         }
@@ -44513,6 +45006,10 @@
         {
           "store": "WATSONS",
           "text": "買3送1"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買3件送1件"
         }
       ]
     },
@@ -44535,6 +45032,10 @@
           "price": "35.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "35.00"
+        },
+        {
           "store": "AEON",
           "price": "35.00"
         }
@@ -44551,6 +45052,10 @@
         {
           "store": "WATSONS",
           "text": "買3送1"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買3件送1件"
         }
       ]
     },
@@ -44583,6 +45088,10 @@
           "price": "25.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "23.00"
+        },
+        {
           "store": "AEON",
           "price": "22.90"
         }
@@ -44591,6 +45100,10 @@
         {
           "store": "PARKNSHOP",
           "text": "買2件慳$18.00"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買3件送1件"
         }
       ]
     },
@@ -44641,12 +45154,20 @@
         {
           "store": "WATSONS",
           "price": "48.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "48.00"
         }
       ],
       "offers": [
         {
           "store": "WATSONS",
           "text": "買3送1"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買3件送1件"
         }
       ]
     },
@@ -44751,6 +45272,10 @@
           "price": "110.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "110.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "86.00"
         }
@@ -44778,6 +45303,10 @@
         {
           "store": "WATSONS",
           "price": "38.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "38.90"
         }
       ],
       "offers": [
@@ -44788,6 +45317,10 @@
         {
           "store": "WATSONS",
           "text": "買3送1"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買3件送1件"
         }
       ]
     },
@@ -44812,6 +45345,10 @@
         {
           "store": "WATSONS",
           "price": "58.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "57.90"
         }
       ],
       "offers": [
@@ -44822,6 +45359,10 @@
         {
           "store": "WATSONS",
           "text": "買3送1"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買3件送1件"
         }
       ]
     },
@@ -44846,6 +45387,10 @@
         {
           "store": "WATSONS",
           "price": "43.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "43.90"
         }
       ],
       "offers": [
@@ -44856,6 +45401,10 @@
         {
           "store": "WATSONS",
           "text": "買3送1"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買3件送1件"
         }
       ]
     },
@@ -44868,9 +45417,18 @@
         {
           "store": "PARKNSHOP",
           "price": "22.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "25.90"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "買3件送1件"
+        }
+      ]
     },
     {
       "code": "P000004887",
@@ -44891,6 +45449,10 @@
           "price": "49.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "49.90"
+        },
+        {
           "store": "AEON",
           "price": "49.90"
         },
@@ -44899,12 +45461,7 @@
           "price": "49.90"
         }
       ],
-      "offers": [
-        {
-          "store": "AEON",
-          "text": "買2件$74.50"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000004886",
@@ -44922,6 +45479,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "49.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "49.90"
         },
         {
@@ -44950,6 +45511,10 @@
           "price": "117.20"
         },
         {
+          "store": "MANNINGS",
+          "price": "117.20"
+        },
+        {
           "store": "DCHFOOD",
           "price": "119.00"
         }
@@ -44972,6 +45537,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "121.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "121.00"
         },
         {
@@ -45000,6 +45569,10 @@
           "price": "121.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "121.00"
+        },
+        {
           "store": "AEON",
           "price": "121.00"
         },
@@ -45008,12 +45581,7 @@
           "price": "119.00"
         }
       ],
-      "offers": [
-        {
-          "store": "AEON",
-          "text": "買2件$181.00"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000004891",
@@ -45034,6 +45602,10 @@
           "price": "121.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "121.00"
+        },
+        {
           "store": "AEON",
           "price": "121.00"
         },
@@ -45042,12 +45614,7 @@
           "price": "108.00"
         }
       ],
-      "offers": [
-        {
-          "store": "AEON",
-          "text": "買2件$181.00"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000004896",
@@ -45078,6 +45645,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "119.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "119.00"
         },
         {
@@ -45119,6 +45690,10 @@
           "price": "134.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "134.00"
+        },
+        {
           "store": "AEON",
           "price": "115.90"
         }
@@ -45141,6 +45716,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "145.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "145.00"
         },
         {
@@ -45174,6 +45753,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "145.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "145.00"
         },
         {
@@ -45280,6 +45863,10 @@
       "category": "奶粉 / 嬰兒用品",
       "prices": [
         {
+          "store": "MANNINGS",
+          "price": "142.00"
+        },
+        {
           "store": "AEON",
           "price": "149.90"
         }
@@ -45302,6 +45889,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "59.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "59.00"
         },
         {
@@ -45330,6 +45921,10 @@
           "price": "129.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "129.00"
+        },
+        {
           "store": "AEON",
           "price": "129.00"
         }
@@ -45352,6 +45947,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "155.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "155.00"
         },
         {
@@ -45380,6 +45979,10 @@
           "price": "155.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "155.00"
+        },
+        {
           "store": "AEON",
           "price": "155.00"
         }
@@ -45405,6 +46008,10 @@
           "price": "155.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "155.00"
+        },
+        {
           "store": "AEON",
           "price": "155.00"
         }
@@ -45424,6 +46031,10 @@
         {
           "store": "WATSONS",
           "price": "119.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "115.00"
         }
       ],
       "offers": [
@@ -45442,6 +46053,10 @@
         {
           "store": "PARKNSHOP",
           "price": "149.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "115.00"
         },
         {
           "store": "AEON",
@@ -45487,6 +46102,10 @@
           "price": "66.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "110.00"
+        },
+        {
           "store": "DCHFOOD",
           "price": "108.00"
         }
@@ -45514,6 +46133,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "165.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "165.00"
         },
         {
@@ -45551,6 +46174,10 @@
           "price": "189.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "189.00"
+        },
+        {
           "store": "AEON",
           "price": "189.00"
         },
@@ -45569,8 +46196,12 @@
           "text": "買2件慳$79.00"
         },
         {
-          "store": "AEON",
-          "text": "買2件$283.00"
+          "store": "WATSONS",
+          "text": "2件或以上照價85折"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買2件75折"
         }
       ]
     },
@@ -45590,6 +46221,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "105.60"
+        },
+        {
+          "store": "MANNINGS",
           "price": "105.60"
         },
         {
@@ -45631,6 +46266,10 @@
           "price": "129.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "129.00"
+        },
+        {
           "store": "AEON",
           "price": "129.00"
         }
@@ -45665,6 +46304,10 @@
           "price": "129.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "129.00"
+        },
+        {
           "store": "AEON",
           "price": "129.00"
         }
@@ -45696,6 +46339,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "139.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "139.00"
         }
       ],
@@ -45742,6 +46389,10 @@
           "price": "46.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "44.20"
+        },
+        {
           "store": "AEON",
           "price": "46.00"
         }
@@ -45758,6 +46409,18 @@
         {
           "store": "JASONS",
           "text": "買2件8折"
+        },
+        {
+          "store": "WATSONS",
+          "text": "2件或以上照價8折"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買2件8折"
+        },
+        {
+          "store": "AEON",
+          "text": "買2件$73.50"
         }
       ]
     },
@@ -45787,6 +46450,10 @@
         {
           "store": "WATSONS",
           "price": "130.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "120.00"
         }
       ],
       "offers": [
@@ -45891,6 +46558,10 @@
           "price": "65.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "60.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "55.00"
         }
@@ -45945,6 +46616,10 @@
         {
           "store": "WATSONS",
           "price": "76.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "99.00"
         }
       ],
       "offers": []
@@ -45957,6 +46632,10 @@
       "prices": [
         {
           "store": "WATSONS",
+          "price": "199.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "199.00"
         },
         {
@@ -45987,6 +46666,10 @@
         {
           "store": "WATSONS",
           "price": "139.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "131.40"
         },
         {
           "store": "AEON",
@@ -46023,6 +46706,10 @@
           "price": "162.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "150.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "58.00"
         }
@@ -46045,11 +46732,20 @@
           "price": "111.70"
         },
         {
+          "store": "MANNINGS",
+          "price": "149.00"
+        },
+        {
           "store": "AEON",
           "price": "89.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "精選嬰兒產品75折"
+        }
+      ]
     },
     {
       "code": "P000003628",
@@ -46057,6 +46753,10 @@
       "name": "嬰兒潤膚乳 120毫升",
       "category": "奶粉 / 嬰兒用品",
       "prices": [
+        {
+          "store": "MANNINGS",
+          "price": "45.00"
+        },
         {
           "store": "LUNGFUNG",
           "price": "38.00"
@@ -46073,6 +46773,10 @@
         {
           "store": "PARKNSHOP",
           "price": "150.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "133.00"
         },
         {
           "store": "LUNGFUNG",
@@ -46141,6 +46845,10 @@
         {
           "store": "WATSONS",
           "price": "44.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "44.00"
         }
       ],
       "offers": []
@@ -46166,6 +46874,10 @@
         {
           "store": "WATSONS",
           "price": "44.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "44.00"
         }
       ],
       "offers": []
@@ -46190,6 +46902,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "49.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "49.90"
         },
         {
@@ -46222,6 +46938,10 @@
           "price": "49.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "49.90"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "38.00"
         }
@@ -46248,6 +46968,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "54.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "54.90"
         }
       ],
@@ -46304,6 +47028,10 @@
         {
           "store": "WATSONS",
           "price": "47.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "42.90"
         }
       ],
       "offers": []
@@ -46338,6 +47066,10 @@
         {
           "store": "WATSONS",
           "price": "49.50"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "37.00"
         }
       ],
       "offers": []
@@ -46362,6 +47094,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "24.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "24.90"
         }
       ],
@@ -46426,6 +47162,10 @@
         {
           "store": "WATSONS",
           "price": "49.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "49.90"
         }
       ],
       "offers": []
@@ -46453,6 +47193,10 @@
           "price": "24.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "32.90"
+        },
+        {
           "store": "AEON",
           "price": "24.90"
         },
@@ -46477,6 +47221,10 @@
         {
           "store": "WATSONS",
           "text": "買2件只需$44.90"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買2件$44.90"
         }
       ]
     },
@@ -46503,11 +47251,20 @@
           "price": "39.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "39.90"
+        },
+        {
           "store": "AEON",
           "price": "39.90"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "精選口腔護理產品85折"
+        }
+      ]
     },
     {
       "code": "P000002687",
@@ -46559,6 +47316,10 @@
         {
           "store": "WATSONS",
           "price": "41.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "39.30"
         }
       ],
       "offers": [
@@ -46595,6 +47356,10 @@
           "price": "49.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "49.90"
+        },
+        {
           "store": "AEON",
           "price": "49.90"
         },
@@ -46603,7 +47368,12 @@
           "price": "39.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "買2件送1件"
+        }
+      ]
     },
     {
       "code": "P000005146",
@@ -46612,11 +47382,20 @@
       "category": "個人護理",
       "prices": [
         {
+          "store": "MANNINGS",
+          "price": "49.90"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "39.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "買2件送1件"
+        }
+      ]
     },
     {
       "code": "P000001758",
@@ -46641,6 +47420,10 @@
           "price": "49.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "49.90"
+        },
+        {
           "store": "AEON",
           "price": "49.90"
         },
@@ -46649,7 +47432,12 @@
           "price": "39.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "買2件送1件"
+        }
+      ]
     },
     {
       "code": "P000003179",
@@ -46779,6 +47567,10 @@
           "price": "79.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "87.50"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "75.00"
         }
@@ -46824,6 +47616,10 @@
         {
           "store": "WATSONS",
           "price": "44.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "49.90"
         }
       ],
       "offers": []
@@ -46841,6 +47637,10 @@
         {
           "store": "WATSONS",
           "price": "59.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "49.90"
         }
       ],
       "offers": []
@@ -46866,6 +47666,10 @@
         {
           "store": "WATSONS",
           "price": "98.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "89.00"
         }
       ],
       "offers": []
@@ -46935,8 +47739,12 @@
           "price": "44.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "44.00"
+        },
+        {
           "store": "AEON",
-          "price": "43.50"
+          "price": "58.00"
         },
         {
           "store": "SASA",
@@ -46965,6 +47773,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "65.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "65.90"
         },
         {
@@ -46998,6 +47810,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "39.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "39.90"
         },
         {
@@ -47039,6 +47855,10 @@
           "price": "35.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "35.00"
+        },
+        {
           "store": "AEON",
           "price": "35.90"
         },
@@ -47071,6 +47891,10 @@
         {
           "store": "PARKNSHOP",
           "price": "35.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "19.90"
         },
         {
           "store": "AEON",
@@ -47109,6 +47933,10 @@
         {
           "store": "WATSONS",
           "price": "29.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "29.90"
         }
       ],
       "offers": []
@@ -47133,6 +47961,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "28.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "28.90"
         },
         {
@@ -47163,6 +47995,10 @@
         {
           "store": "WATSONS",
           "price": "42.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "42.90"
         }
       ],
       "offers": []
@@ -47187,6 +48023,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "25.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "25.90"
         },
         {
@@ -47220,6 +48060,10 @@
           "text": "買2件只需$38.00"
         },
         {
+          "store": "MANNINGS",
+          "text": "買2件$38.00"
+        },
+        {
           "store": "AEON",
           "text": "買2件$38.00"
         }
@@ -47237,6 +48081,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "89.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "89.00"
         },
         {
@@ -47259,6 +48107,10 @@
         {
           "store": "JASONS",
           "price": "94.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "89.00"
         }
       ],
       "offers": []
@@ -47350,6 +48202,10 @@
           "price": "33.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "33.90"
+        },
+        {
           "store": "AEON",
           "price": "33.90"
         }
@@ -47411,6 +48267,10 @@
         {
           "store": "WATSONS",
           "price": "29.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "29.90"
         }
       ],
       "offers": [
@@ -47452,6 +48312,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "12.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "12.90"
         }
       ],
@@ -47495,7 +48359,7 @@
       "prices": [
         {
           "store": "AEON",
-          "price": "10.00"
+          "price": "12.90"
         }
       ],
       "offers": []
@@ -47512,6 +48376,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "28.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "28.90"
         },
         {
@@ -47539,7 +48407,12 @@
       "brand": "花王 樂而雅",
       "name": "零感特薄 (特長日用) 衛生巾 25厘米 16片",
       "category": "個人護理",
-      "prices": [],
+      "prices": [
+        {
+          "store": "MANNINGS",
+          "price": "28.90"
+        }
+      ],
       "offers": []
     },
     {
@@ -47554,6 +48427,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "27.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "27.90"
         }
       ],
@@ -47582,8 +48459,12 @@
           "price": "21.50"
         },
         {
+          "store": "MANNINGS",
+          "price": "21.50"
+        },
+        {
           "store": "AEON",
-          "price": "15.00"
+          "price": "22.50"
         },
         {
           "store": "DCHFOOD",
@@ -47606,6 +48487,10 @@
         {
           "store": "WATSONS",
           "text": "第二件50%折扣"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "第2件半價"
         }
       ]
     },
@@ -47617,6 +48502,10 @@
       "prices": [
         {
           "store": "WATSONS",
+          "price": "33.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "33.90"
         },
         {
@@ -47651,6 +48540,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "26.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "26.90"
         },
         {
@@ -47774,8 +48667,12 @@
           "price": "40.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "40.00"
+        },
+        {
           "store": "AEON",
-          "price": "30.00"
+          "price": "40.00"
         },
         {
           "store": "DCHFOOD",
@@ -47816,8 +48713,12 @@
           "price": "24.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "24.00"
+        },
+        {
           "store": "AEON",
-          "price": "18.00"
+          "price": "24.00"
         },
         {
           "store": "DCHFOOD",
@@ -47858,8 +48759,12 @@
           "price": "30.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "30.00"
+        },
+        {
           "store": "AEON",
-          "price": "22.50"
+          "price": "30.00"
         },
         {
           "store": "DCHFOOD",
@@ -47913,8 +48818,12 @@
           "price": "35.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "35.90"
+        },
+        {
           "store": "AEON",
-          "price": "30.50"
+          "price": "35.90"
         },
         {
           "store": "LUNGFUNG",
@@ -47933,6 +48842,10 @@
         {
           "store": "WATSONS",
           "text": "第二件50%折扣"
+        },
+        {
+          "store": "AEON",
+          "text": "買2件$35.90"
         }
       ]
     },
@@ -48100,15 +49013,32 @@
           "price": "39.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "39.90"
+        },
+        {
           "store": "AEON",
-          "price": "33.90"
+          "price": "39.90"
         },
         {
           "store": "LUNGFUNG",
           "price": "35.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "WATSONS",
+          "text": "買2送2"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買1件送1件"
+        },
+        {
+          "store": "AEON",
+          "text": "買2件$39.90"
+        }
+      ]
     },
     {
       "code": "P000005168",
@@ -48131,9 +49061,18 @@
         {
           "store": "WATSONS",
           "price": "75.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "75.90"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "買1件送1件"
+        }
+      ]
     },
     {
       "code": "P000005166",
@@ -48156,9 +49095,18 @@
         {
           "store": "WATSONS",
           "price": "75.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "75.90"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "買1件送1件"
+        }
+      ]
     },
     {
       "code": "P000005167",
@@ -48183,11 +49131,28 @@
           "price": "39.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "39.90"
+        },
+        {
           "store": "AEON",
-          "price": "33.90"
+          "price": "39.90"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "WATSONS",
+          "text": "買2送2"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買1件送1件"
+        },
+        {
+          "store": "AEON",
+          "text": "買2件$39.90"
+        }
+      ]
     },
     {
       "code": "P000005169",
@@ -48212,11 +49177,28 @@
           "price": "39.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "39.90"
+        },
+        {
           "store": "AEON",
-          "price": "33.90"
+          "price": "39.90"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "WATSONS",
+          "text": "買2送2"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買1件送1件"
+        },
+        {
+          "store": "AEON",
+          "text": "買2件$39.90"
+        }
+      ]
     },
     {
       "code": "P000005170",
@@ -48231,9 +49213,18 @@
         {
           "store": "WATSONS",
           "price": "75.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "75.90"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "買1件送1件"
+        }
+      ]
     },
     {
       "code": "P000005171",
@@ -48258,11 +49249,24 @@
           "price": "39.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "39.90"
+        },
+        {
           "store": "AEON",
-          "price": "33.90"
+          "price": "39.90"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "WATSONS",
+          "text": "買2送2"
+        },
+        {
+          "store": "AEON",
+          "text": "買2件$39.90"
+        }
+      ]
     },
     {
       "code": "P000005172",
@@ -48287,11 +49291,24 @@
           "price": "39.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "39.90"
+        },
+        {
           "store": "AEON",
-          "price": "33.90"
+          "price": "39.90"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "WATSONS",
+          "text": "買2送2"
+        },
+        {
+          "store": "AEON",
+          "text": "買2件$39.90"
+        }
+      ]
     },
     {
       "code": "P000001939",
@@ -48308,11 +49325,20 @@
           "price": "23.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "21.90"
+        },
+        {
           "store": "AEON",
           "price": "19.50"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "買1件送1件"
+        }
+      ]
     },
     {
       "code": "P000002375",
@@ -48391,6 +49417,10 @@
           "price": "18.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "18.90"
+        },
+        {
           "store": "DCHFOOD",
           "price": "20.00"
         }
@@ -48420,6 +49450,10 @@
           "price": "24.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "24.90"
+        },
+        {
           "store": "AEON",
           "price": "25.00"
         },
@@ -48432,6 +49466,10 @@
         {
           "store": "WATSONS",
           "text": "買3件只需$55"
+        },
+        {
+          "store": "AEON",
+          "text": "買3件$55.00"
         }
       ]
     },
@@ -48455,6 +49493,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "25.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "25.90"
         },
         {
@@ -48484,6 +49526,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "33.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "33.00"
         },
         {
@@ -48541,6 +49587,10 @@
         {
           "store": "WATSONS",
           "price": "18.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "18.90"
         }
       ],
       "offers": []
@@ -48592,6 +49642,10 @@
         {
           "store": "WATSONS",
           "price": "57.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "57.00"
         }
       ],
       "offers": [
@@ -48622,6 +49676,10 @@
         {
           "store": "WATSONS",
           "price": "57.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "57.00"
         }
       ],
       "offers": [
@@ -48646,11 +49704,20 @@
           "price": "34.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "45.90"
+        },
+        {
           "store": "AEON",
           "price": "32.90"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "買1件送1件"
+        }
+      ]
     },
     {
       "code": "P000002650",
@@ -48660,7 +49727,7 @@
       "prices": [
         {
           "store": "PARKNSHOP",
-          "price": "60.00"
+          "price": "65.90"
         },
         {
           "store": "WATSONS",
@@ -48685,11 +49752,15 @@
         },
         {
           "store": "PARKNSHOP",
-          "price": "60.00"
+          "price": "65.90"
         },
         {
           "store": "JASONS",
           "price": "53.50"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "50.30"
         }
       ],
       "offers": []
@@ -48714,6 +49785,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "105.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "105.90"
         },
         {
@@ -48768,6 +49843,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "105.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "105.90"
         }
       ],
@@ -48824,6 +49903,10 @@
         {
           "store": "JASONS",
           "price": "82.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "79.00"
         }
       ],
       "offers": []
@@ -48844,6 +49927,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "79.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "79.90"
         },
         {
@@ -48960,6 +50047,10 @@
         {
           "store": "WATSONS",
           "price": "99.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "99.00"
         }
       ],
       "offers": [
@@ -48990,6 +50081,10 @@
         {
           "store": "WATSONS",
           "price": "74.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "64.00"
         },
         {
           "store": "LUNGFUNG",
@@ -49084,8 +50179,12 @@
           "price": "59.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "59.90"
+        },
+        {
           "store": "AEON",
-          "price": "44.90"
+          "price": "59.90"
         }
       ],
       "offers": [
@@ -49120,10 +50219,6 @@
         {
           "store": "JASONS",
           "price": "60.00"
-        },
-        {
-          "store": "WATSONS",
-          "price": "59.90"
         }
       ],
       "offers": [
@@ -49138,10 +50233,6 @@
         {
           "store": "JASONS",
           "text": "第2件半價"
-        },
-        {
-          "store": "WATSONS",
-          "text": "第二件50%折扣"
         }
       ]
     },
@@ -49263,6 +50354,10 @@
         {
           "store": "WATSONS",
           "price": "64.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "64.90"
         }
       ],
       "offers": []
@@ -49287,6 +50382,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "64.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "64.90"
         },
         {
@@ -49317,6 +50416,10 @@
         {
           "store": "WATSONS",
           "price": "109.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "109.00"
         }
       ],
       "offers": [
@@ -49331,6 +50434,10 @@
         {
           "store": "JASONS",
           "text": "第2件半價"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買2件$195.00"
         }
       ]
     },
@@ -49357,6 +50464,10 @@
           "price": "84.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "99.90"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "75.00"
         }
@@ -49369,6 +50480,10 @@
         {
           "store": "JASONS",
           "text": "第2件半價"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "精選頭髮護理產品85折"
         }
       ]
     },
@@ -49502,6 +50617,10 @@
           "price": "67.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "67.90"
+        },
+        {
           "store": "DCHFOOD",
           "price": "76.90"
         },
@@ -49537,6 +50656,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "67.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "67.90"
         },
         {
@@ -49578,6 +50701,10 @@
           "price": "67.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "67.90"
+        },
+        {
           "store": "DCHFOOD",
           "price": "76.90"
         },
@@ -49606,6 +50733,10 @@
         {
           "store": "WATSONS",
           "price": "66.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "78.00"
         },
         {
           "store": "LUNGFUNG",
@@ -49639,6 +50770,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "49.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "49.90"
         },
         {
@@ -49686,7 +50821,7 @@
         },
         {
           "store": "AEON",
-          "price": "44.90"
+          "price": "59.90"
         }
       ],
       "offers": [
@@ -49724,6 +50859,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "64.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "64.90"
         },
         {
@@ -49790,6 +50929,10 @@
           "price": "77.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "67.90"
+        },
+        {
           "store": "DCHFOOD",
           "price": "76.90"
         },
@@ -49826,6 +50969,10 @@
         {
           "store": "PARKNSHOP",
           "price": "15.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "15.90"
         }
       ],
       "offers": []
@@ -49853,14 +51000,22 @@
           "price": "59.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "59.90"
+        },
+        {
           "store": "AEON",
-          "price": "53.90"
+          "price": "59.90"
         }
       ],
       "offers": [
         {
           "store": "WATSONS",
           "text": "第二件50%折扣"
+        },
+        {
+          "store": "AEON",
+          "text": "買2件$59.90"
         }
       ]
     },
@@ -49887,6 +51042,10 @@
           "price": "84.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "99.90"
+        },
+        {
           "store": "DCHFOOD",
           "price": "99.90"
         },
@@ -49903,6 +51062,10 @@
         {
           "store": "JASONS",
           "text": "第2件半價"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "精選頭髮護理產品85折"
         }
       ]
     },
@@ -49926,6 +51089,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "42.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "42.00"
         },
         {
@@ -49966,6 +51133,10 @@
           "price": "59.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "59.00"
+        },
+        {
           "store": "SASA",
           "price": "52.00"
         },
@@ -49993,6 +51164,10 @@
         {
           "store": "WATSONS",
           "price": "40.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "48.00"
         }
       ],
       "offers": []
@@ -50020,6 +51195,10 @@
           "price": "57.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "57.00"
+        },
+        {
           "store": "AEON",
           "price": "57.00"
         },
@@ -50041,6 +51220,10 @@
           "price": "36.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "39.90"
+        },
+        {
           "store": "AEON",
           "price": "39.90"
         }
@@ -50056,6 +51239,10 @@
         {
           "store": "PARKNSHOP",
           "price": "46.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "44.90"
         }
       ],
       "offers": []
@@ -50077,6 +51264,10 @@
         {
           "store": "WATSONS",
           "price": "39.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "39.90"
         }
       ],
       "offers": []
@@ -50089,6 +51280,10 @@
       "prices": [
         {
           "store": "WATSONS",
+          "price": "39.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "39.90"
         }
       ],
@@ -50110,6 +51305,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "36.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "36.90"
         }
       ],
@@ -50136,6 +51335,10 @@
         {
           "store": "WATSONS",
           "price": "32.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "32.90"
         }
       ],
       "offers": []
@@ -50156,6 +51359,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "32.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "32.90"
         }
       ],
@@ -50184,6 +51391,10 @@
           "price": "29.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "29.90"
+        },
+        {
           "store": "DCHFOOD",
           "price": "32.90"
         }
@@ -50205,6 +51416,10 @@
           "price": "166.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "166.00"
+        },
+        {
           "store": "SASA",
           "price": "166.00"
         }
@@ -50213,6 +51428,10 @@
         {
           "store": "WATSONS",
           "text": "買2件只需$249"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "精選頭髮護理產品85折"
         }
       ]
     },
@@ -50229,6 +51448,10 @@
         {
           "store": "JASONS",
           "price": "99.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "94.00"
         }
       ],
       "offers": []
@@ -50253,6 +51476,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "35.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "35.00"
         },
         {
@@ -50287,6 +51514,10 @@
         {
           "store": "WATSONS",
           "price": "36.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "34.00"
         },
         {
           "store": "AEON",
@@ -50350,6 +51581,10 @@
         {
           "store": "WATSONS",
           "price": "40.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "40.90"
         }
       ],
       "offers": []
@@ -50411,6 +51646,10 @@
           "price": "44.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "35.00"
+        },
+        {
           "store": "AEON",
           "price": "37.90"
         },
@@ -50438,6 +51677,10 @@
         {
           "store": "WATSONS",
           "price": "125.30"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "125.00"
         },
         {
           "store": "AEON",
@@ -50526,6 +51769,10 @@
         {
           "store": "WATSONS",
           "price": "43.50"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "43.80"
         },
         {
           "store": "SASA",
@@ -50635,6 +51882,10 @@
         {
           "store": "WATSONS",
           "price": "33.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "25.00"
         }
       ],
       "offers": [
@@ -50807,6 +52058,10 @@
           "price": "22.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "22.90"
+        },
+        {
           "store": "AEON",
           "price": "22.90"
         }
@@ -50818,7 +52073,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "text": "買2慳$6.9"
+          "text": "Buy 2 to save $6.90"
         },
         {
           "store": "JASONS",
@@ -50827,6 +52082,10 @@
         {
           "store": "WATSONS",
           "text": "買2件只需$38.9"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買2件送1件"
         }
       ]
     },
@@ -50859,6 +52118,10 @@
       "prices": [
         {
           "store": "WATSONS",
+          "price": "9.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "9.90"
         },
         {
@@ -51041,6 +52304,10 @@
           "price": "208.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "260.00"
+        },
+        {
           "store": "SASA",
           "price": "132.00"
         },
@@ -51049,7 +52316,12 @@
           "price": "123.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "精選護膚彩妝產品8折"
+        }
+      ]
     },
     {
       "code": "P000003205",
@@ -51116,6 +52388,10 @@
           "price": "38.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "38.90"
+        },
+        {
           "store": "SASA",
           "price": "29.20"
         },
@@ -51148,6 +52424,10 @@
         {
           "store": "WATSONS",
           "price": "41.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "41.90"
         }
       ],
       "offers": []
@@ -51164,6 +52444,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "69.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "69.00"
         },
         {
@@ -51202,6 +52486,10 @@
           "price": "89.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "89.00"
+        },
+        {
           "store": "SASA",
           "price": "89.00"
         }
@@ -51223,6 +52511,10 @@
           "price": "86.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "86.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "75.00"
         }
@@ -51241,6 +52533,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "120.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "120.00"
         },
         {
@@ -51266,6 +52562,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "129.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "129.90"
         }
       ],
@@ -51294,8 +52594,12 @@
           "price": "121.80"
         },
         {
+          "store": "MANNINGS",
+          "price": "174.00"
+        },
+        {
           "store": "AEON",
-          "price": "130.50"
+          "price": "121.50"
         },
         {
           "store": "SASA",
@@ -51318,6 +52622,10 @@
         {
           "store": "JASONS",
           "text": "買2件75折"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買2件75折"
         }
       ]
     },
@@ -51334,9 +52642,18 @@
         {
           "store": "WATSONS",
           "price": "173.60"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "248.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "精選護膚彩妝產品7折"
+        }
+      ]
     },
     {
       "code": "P000003362",
@@ -51380,6 +52697,10 @@
         {
           "store": "WATSONS",
           "price": "130.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "130.00"
         }
       ],
       "offers": []
@@ -51407,6 +52728,10 @@
           "price": "16.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "16.90"
+        },
+        {
           "store": "SASA",
           "price": "16.90"
         }
@@ -51426,6 +52751,10 @@
         {
           "store": "WATSONS",
           "price": "45.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "44.50"
         }
       ],
       "offers": []
@@ -51474,6 +52803,10 @@
           "price": "16.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "16.00"
+        },
+        {
           "store": "SASA",
           "price": "17.00"
         },
@@ -51499,11 +52832,20 @@
           "price": "224.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "299.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "215.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "精選潔美淨產品75折"
+        }
+      ]
     },
     {
       "code": "P000003632",
@@ -51517,6 +52859,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "183.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "183.00"
         },
         {
@@ -51716,6 +53062,10 @@
           "price": "19.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "19.90"
+        },
+        {
           "store": "SASA",
           "price": "10.00"
         },
@@ -51759,6 +53109,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "29.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "29.90"
         }
       ],
@@ -51875,6 +53229,10 @@
           "price": "84.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "76.40"
+        },
+        {
           "store": "SASA",
           "price": "84.90"
         }
@@ -51931,6 +53289,10 @@
           "price": "49.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "49.90"
+        },
+        {
           "store": "SASA",
           "price": "49.90"
         }
@@ -51950,9 +53312,18 @@
         {
           "store": "WATSONS",
           "price": "49.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "48.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "精選護膚彩妝產品75折"
+        }
+      ]
     },
     {
       "code": "P000001582",
@@ -51975,6 +53346,10 @@
         {
           "store": "WATSONS",
           "price": "27.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "27.80"
         }
       ],
       "offers": []
@@ -51999,6 +53374,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "26.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "26.00"
         },
         {
@@ -52031,6 +53410,10 @@
           "price": "64.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "55.80"
+        },
+        {
           "store": "SASA",
           "price": "57.60"
         },
@@ -52057,6 +53440,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "16.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "16.90"
         },
         {
@@ -52118,6 +53505,10 @@
         {
           "store": "WATSONS",
           "price": "176.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "176.00"
         }
       ],
       "offers": []
@@ -52138,6 +53529,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "52.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "52.90"
         },
         {
@@ -52164,6 +53559,10 @@
         {
           "store": "WATSONS",
           "price": "110.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "138.00"
         }
       ],
       "offers": []
@@ -52174,6 +53573,10 @@
       "name": "深層卸妝潔膚水 500毫升",
       "category": "個人護理",
       "prices": [
+        {
+          "store": "MANNINGS",
+          "price": "228.00"
+        },
         {
           "store": "SASA",
           "price": "59.00"
@@ -52200,6 +53603,10 @@
           "price": "50.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "59.90"
+        },
+        {
           "store": "SASA",
           "price": "59.90"
         }
@@ -52215,6 +53622,10 @@
         {
           "store": "WATSONS",
           "price": "74.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "99.00"
         },
         {
           "store": "SASA",
@@ -52238,6 +53649,10 @@
           "price": "99.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "99.00"
+        },
+        {
           "store": "SASA",
           "price": "99.00"
         }
@@ -52251,11 +53666,19 @@
       "category": "個人護理",
       "prices": [
         {
+          "store": "MANNINGS",
+          "price": "310.00"
+        },
+        {
           "store": "AEON",
           "price": "310.00"
         }
       ],
       "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "買1件送1件"
+        },
         {
           "store": "AEON",
           "text": "9.50折"
@@ -52269,11 +53692,19 @@
       "category": "個人護理",
       "prices": [
         {
+          "store": "MANNINGS",
+          "price": "230.00"
+        },
+        {
           "store": "AEON",
           "price": "230.00"
         }
       ],
       "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "買1件送1件"
+        },
         {
           "store": "AEON",
           "text": "9.50折"
@@ -52287,6 +53718,10 @@
       "category": "個人護理",
       "prices": [
         {
+          "store": "MANNINGS",
+          "price": "178.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "118.00"
         }
@@ -52299,6 +53734,10 @@
       "name": "精華油 150毫升",
       "category": "個人護理",
       "prices": [
+        {
+          "store": "MANNINGS",
+          "price": "198.00"
+        },
         {
           "store": "LUNGFUNG",
           "price": "198.00"
@@ -52355,6 +53794,10 @@
           "price": "36.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "36.90"
+        },
+        {
           "store": "AEON",
           "price": "36.90"
         },
@@ -52375,10 +53818,6 @@
         {
           "store": "JASONS",
           "text": "買4件$89.90"
-        },
-        {
-          "store": "AEON",
-          "text": "買3件$60.00"
         }
       ]
     },
@@ -52394,6 +53833,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "59.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "59.90"
         },
         {
@@ -52417,6 +53860,10 @@
         {
           "store": "WATSONS",
           "text": "指定產品3件6折"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買1件送1件"
         }
       ]
     },
@@ -52432,6 +53879,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "159.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "159.90"
         },
         {
@@ -52460,6 +53911,10 @@
       "name": "蜂蜜面膜 10片裝",
       "category": "個人護理",
       "prices": [
+        {
+          "store": "MANNINGS",
+          "price": "67.00"
+        },
         {
           "store": "SASA",
           "price": "67.00"
@@ -52505,6 +53960,10 @@
         {
           "store": "WATSONS",
           "price": "89.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "89.90"
         }
       ],
       "offers": []
@@ -52537,11 +53996,20 @@
           "price": "13.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "11.50"
+        },
+        {
           "store": "AEON",
           "price": "10.50"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "買2件$19.90"
+        }
+      ]
     },
     {
       "code": "P000001103",
@@ -52590,6 +54058,10 @@
         {
           "store": "WATSONS",
           "price": "32.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "42.00"
         }
       ],
       "offers": []
@@ -52642,6 +54114,10 @@
           "price": "30.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "29.90"
+        },
+        {
           "store": "SASA",
           "price": "25.90"
         }
@@ -52669,6 +54145,10 @@
         {
           "store": "WATSONS",
           "price": "30.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "29.90"
         },
         {
           "store": "SASA",
@@ -52700,6 +54180,10 @@
           "price": "33.50"
         },
         {
+          "store": "MANNINGS",
+          "price": "33.50"
+        },
+        {
           "store": "SASA",
           "price": "33.50"
         }
@@ -52727,6 +54211,10 @@
         {
           "store": "WATSONS",
           "price": "39.50"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "39.50"
         }
       ],
       "offers": []
@@ -52751,6 +54239,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "28.50"
+        },
+        {
+          "store": "MANNINGS",
           "price": "28.50"
         },
         {
@@ -52783,6 +54275,10 @@
           "price": "28.50"
         },
         {
+          "store": "MANNINGS",
+          "price": "20.00"
+        },
+        {
           "store": "SASA",
           "price": "25.90"
         }
@@ -52812,6 +54308,10 @@
           "price": "26.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "26.90"
+        },
+        {
           "store": "SASA",
           "price": "19.00"
         }
@@ -52837,11 +54337,20 @@
           "price": "21.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "19.90"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "22.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "買2件$36.00"
+        }
+      ]
     },
     {
       "code": "P000003028",
@@ -52863,6 +54372,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "26.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "26.00"
         },
         {
@@ -52893,6 +54406,10 @@
         {
           "store": "WATSONS",
           "price": "34.50"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "34.50"
         }
       ],
       "offers": []
@@ -52918,6 +54435,10 @@
         {
           "store": "WATSONS",
           "price": "22.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "20.00"
         },
         {
           "store": "SASA",
@@ -52947,6 +54468,10 @@
       "prices": [
         {
           "store": "WATSONS",
+          "price": "126.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "126.90"
         }
       ],
@@ -53036,6 +54561,10 @@
           "price": "58.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "48.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "45.00"
         }
@@ -53062,6 +54591,10 @@
           "price": "68.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "59.80"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "38.00"
         }
@@ -53080,6 +54613,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "65.50"
+        },
+        {
+          "store": "MANNINGS",
           "price": "65.50"
         },
         {
@@ -53102,6 +54639,10 @@
         {
           "store": "WATSONS",
           "price": "58.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "58.80"
         }
       ],
       "offers": []
@@ -53125,6 +54666,10 @@
           "price": "68.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "68.00"
+        },
+        {
           "store": "AEON",
           "price": "68.00"
         },
@@ -53133,7 +54678,12 @@
           "price": "58.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "精選日本大正肯得產品7折"
+        }
+      ]
     },
     {
       "code": "P000005017",
@@ -53143,6 +54693,10 @@
       "prices": [
         {
           "store": "WATSONS",
+          "price": "71.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "71.00"
         },
         {
@@ -53171,11 +54725,20 @@
           "price": "30.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "29.20"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "25.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "買2件$53.00"
+        }
+      ]
     },
     {
       "code": "P000001028",
@@ -53196,6 +54759,10 @@
           "price": "35.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "35.90"
+        },
+        {
           "store": "SASA",
           "price": "33.90"
         },
@@ -53204,7 +54771,12 @@
           "price": "28.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "買2件$67.80"
+        }
+      ]
     },
     {
       "code": "P000005018",
@@ -53223,6 +54795,10 @@
         {
           "store": "WATSONS",
           "price": "32.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "36.00"
         },
         {
           "store": "SASA",
@@ -53258,6 +54834,10 @@
           "price": "64.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "79.80"
+        },
+        {
           "store": "SASA",
           "price": "59.00"
         },
@@ -53289,6 +54869,10 @@
         {
           "store": "WATSONS",
           "price": "43.50"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "43.50"
         }
       ],
       "offers": []
@@ -53309,6 +54893,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "32.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "32.00"
         },
         {
@@ -53338,6 +54926,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "1325.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "1325.00"
         },
         {
@@ -53375,6 +54967,10 @@
           "price": "42.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "42.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "32.00"
         }
@@ -53394,6 +54990,10 @@
         {
           "store": "WATSONS",
           "price": "840.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "840.00"
         }
       ],
       "offers": []
@@ -53410,6 +55010,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "454.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "454.00"
         }
       ],
@@ -53438,6 +55042,10 @@
           "price": "50.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "50.00"
+        },
+        {
           "store": "SASA",
           "price": "42.00"
         },
@@ -53460,6 +55068,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "1500.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "1500.00"
         }
       ],
@@ -53490,6 +55102,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "43.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "43.90"
         },
         {
@@ -53531,6 +55147,10 @@
           "price": "49.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "49.90"
+        },
+        {
           "store": "SASA",
           "price": "51.50"
         },
@@ -53549,6 +55169,10 @@
       "prices": [
         {
           "store": "WATSONS",
+          "price": "92.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "92.00"
         },
         {
@@ -53574,6 +55198,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "339.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "339.00"
         },
         {
@@ -53603,6 +55231,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "21.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "21.90"
         },
         {
@@ -53636,6 +55268,10 @@
           "text": "買2件只需$39.00"
         },
         {
+          "store": "MANNINGS",
+          "text": "買2件$39.90"
+        },
+        {
           "store": "AEON",
           "text": "買2件$39.90"
         }
@@ -53653,6 +55289,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "48.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "48.00"
         },
         {
@@ -53675,6 +55315,10 @@
         {
           "store": "WATSONS",
           "price": "79.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "79.00"
         }
       ],
       "offers": []
@@ -53696,6 +55340,10 @@
         {
           "store": "WATSONS",
           "price": "74.10"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "79.90"
         },
         {
           "store": "SASA",
@@ -53727,6 +55375,10 @@
           "price": "50.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "50.70"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "37.00"
         }
@@ -53749,6 +55401,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "42.50"
+        },
+        {
+          "store": "MANNINGS",
           "price": "42.50"
         },
         {
@@ -53779,6 +55435,10 @@
         {
           "store": "WATSONS",
           "price": "72.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "70.00"
         },
         {
           "store": "AEON",
@@ -53814,6 +55474,10 @@
           "price": "79.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "79.90"
+        },
+        {
           "store": "AEON",
           "price": "79.90"
         },
@@ -53843,6 +55507,10 @@
           "price": "53.50"
         },
         {
+          "store": "MANNINGS",
+          "price": "53.50"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "38.00"
         }
@@ -53868,6 +55536,10 @@
           "price": "26.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "26.00"
+        },
+        {
           "store": "SASA",
           "price": "26.00"
         },
@@ -53886,6 +55558,10 @@
       "prices": [
         {
           "store": "WATSONS",
+          "price": "119.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "119.90"
         },
         {
@@ -53914,6 +55590,10 @@
           "price": "59.50"
         },
         {
+          "store": "MANNINGS",
+          "price": "66.00"
+        },
+        {
           "store": "SASA",
           "price": "60.00"
         },
@@ -53936,6 +55616,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "199.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "199.00"
         },
         {
@@ -53985,6 +55669,10 @@
           "price": "35.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "35.90"
+        },
+        {
           "store": "AEON",
           "price": "35.90"
         },
@@ -54015,7 +55703,7 @@
         },
         {
           "store": "AEON",
-          "price": "10.00"
+          "price": "16.90"
         }
       ],
       "offers": [
@@ -54046,6 +55734,10 @@
         {
           "store": "WATSONS",
           "price": "38.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "35.00"
         },
         {
           "store": "SASA",
@@ -54115,6 +55807,10 @@
           "price": "61.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "61.00"
+        },
+        {
           "store": "AEON",
           "price": "60.90"
         },
@@ -54148,6 +55844,10 @@
           "price": "41.50"
         },
         {
+          "store": "MANNINGS",
+          "price": "55.00"
+        },
+        {
           "store": "AEON",
           "price": "43.90"
         },
@@ -54160,7 +55860,12 @@
           "price": "37.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "精選驅蚊產品75折"
+        }
+      ]
     },
     {
       "code": "P000004977",
@@ -54174,6 +55879,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "98.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "98.90"
         }
       ],
@@ -54219,6 +55928,10 @@
           "price": "98.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "98.90"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "80.00"
         }
@@ -54246,6 +55959,10 @@
         {
           "store": "WATSONS",
           "price": "67.70"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "67.70"
         }
       ],
       "offers": []
@@ -54266,6 +55983,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "41.80"
+        },
+        {
+          "store": "MANNINGS",
           "price": "41.80"
         },
         {
@@ -54295,6 +56016,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "57.20"
+        },
+        {
+          "store": "MANNINGS",
           "price": "57.20"
         },
         {
@@ -54403,6 +56128,10 @@
           "price": "92.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "92.90"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "63.00"
         }
@@ -54421,6 +56150,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "86.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "86.00"
         },
         {
@@ -54449,6 +56182,10 @@
           "price": "119.50"
         },
         {
+          "store": "MANNINGS",
+          "price": "119.50"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "69.00"
         }
@@ -54471,6 +56208,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "88.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "88.00"
         },
         {
@@ -54504,6 +56245,10 @@
           "price": "8.50"
         },
         {
+          "store": "MANNINGS",
+          "price": "8.50"
+        },
+        {
           "store": "AEON",
           "price": "14.90"
         }
@@ -54532,6 +56277,10 @@
         {
           "store": "WATSONS",
           "price": "22.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "18.00"
         },
         {
           "store": "LUNGFUNG",
@@ -54619,6 +56368,10 @@
           "price": "10.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "10.90"
+        },
+        {
           "store": "AEON",
           "price": "10.90"
         }
@@ -54641,6 +56394,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "20.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "20.90"
         },
         {
@@ -54670,6 +56427,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "36.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "36.00"
         },
         {
@@ -54715,6 +56476,10 @@
           "price": "49.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "49.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "40.00"
         }
@@ -54746,6 +56511,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "184.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "184.00"
         },
         {
@@ -54803,6 +56572,10 @@
       "name": "十六度超特濃熬雞精 60克 x 6",
       "category": "個人護理",
       "prices": [
+        {
+          "store": "MANNINGS",
+          "price": "230.00"
+        },
         {
           "store": "LUNGFUNG",
           "price": "298.00"
@@ -54871,6 +56644,10 @@
           "price": "269.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "269.90"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "198.00"
         }
@@ -54909,6 +56686,10 @@
           "price": "319.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "319.90"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "230.00"
         }
@@ -54939,6 +56720,10 @@
           "price": "187.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "187.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "175.00"
         }
@@ -54956,8 +56741,12 @@
           "price": "49.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "49.00"
+        },
+        {
           "store": "AEON",
-          "price": "30.00"
+          "price": "48.90"
         }
       ],
       "offers": []
@@ -54985,6 +56774,10 @@
           "price": "104.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "104.90"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "70.00"
         }
@@ -54999,6 +56792,10 @@
       "prices": [
         {
           "store": "WATSONS",
+          "price": "264.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "264.00"
         },
         {
@@ -55048,6 +56845,10 @@
           "price": "118.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "111.90"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "95.00"
         }
@@ -55093,6 +56894,10 @@
         {
           "store": "WATSONS",
           "price": "182.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "182.50"
         }
       ],
       "offers": []
@@ -55105,6 +56910,10 @@
       "prices": [
         {
           "store": "WATSONS",
+          "price": "205.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "205.00"
         },
         {
@@ -55148,6 +56957,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "199.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "199.00"
         }
       ],
@@ -55235,11 +57048,20 @@
           "price": "299.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "299.00"
+        },
+        {
           "store": "SASA",
           "price": "155.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "買2件送1件"
+        }
+      ]
     },
     {
       "code": "P000004948",
@@ -55257,6 +57079,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "395.00"
+        },
+        {
+          "store": "MANNINGS",
           "price": "395.00"
         },
         {
@@ -55643,6 +57469,10 @@
           "price": "209.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "199.90"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "160.00"
         }
@@ -55666,6 +57496,10 @@
         {
           "store": "WATSONS",
           "price": "179.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "169.90"
         }
       ],
       "offers": []
@@ -55747,6 +57581,10 @@
           "price": "149.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "139.90"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "101.00"
         }
@@ -55774,6 +57612,10 @@
         {
           "store": "WATSONS",
           "price": "149.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "129.00"
         },
         {
           "store": "LUNGFUNG",
@@ -55834,6 +57676,10 @@
           "price": "109.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "84.90"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "62.00"
         }
@@ -55863,6 +57709,10 @@
           "price": "139.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "129.90"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "88.00"
         }
@@ -55890,6 +57740,10 @@
         {
           "store": "WATSONS",
           "price": "89.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "88.00"
         },
         {
           "store": "LUNGFUNG",
@@ -55996,6 +57850,10 @@
           "price": "118.50"
         },
         {
+          "store": "MANNINGS",
+          "price": "139.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "116.00"
         }
@@ -56059,11 +57917,20 @@
           "price": "46.60"
         },
         {
+          "store": "MANNINGS",
+          "price": "69.00"
+        },
+        {
           "store": "LUNGFUNG",
           "price": "55.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "買2件送1件"
+        }
+      ]
     },
     {
       "code": "P000004918",
@@ -56122,6 +57989,10 @@
           "price": "62.90"
         },
         {
+          "store": "MANNINGS",
+          "price": "69.90"
+        },
+        {
           "store": "DCHFOOD",
           "price": "66.80"
         }
@@ -56150,6 +58021,10 @@
         {
           "store": "WATSONS",
           "price": "159.90"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "160.00"
         }
       ],
       "offers": []
@@ -56170,6 +58045,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "166.50"
+        },
+        {
+          "store": "MANNINGS",
           "price": "166.50"
         }
       ],
@@ -56245,8 +58124,12 @@
           "price": "40.90"
         },
         {
-          "store": "AEON",
+          "store": "MANNINGS",
           "price": "40.90"
+        },
+        {
+          "store": "AEON",
+          "price": "20.40"
         },
         {
           "store": "DCHFOOD",
@@ -56268,6 +58151,10 @@
         },
         {
           "store": "WATSONS",
+          "text": "第二件50%折扣"
+        },
+        {
+          "store": "MANNINGS",
           "text": "第二件50%折扣"
         }
       ]
@@ -56315,6 +58202,10 @@
         {
           "store": "WATSONS",
           "price": "43.00"
+        },
+        {
+          "store": "MANNINGS",
+          "price": "37.00"
         },
         {
           "store": "AEON",
@@ -56698,7 +58589,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$152.50"
+          "text": "買3件$180.00"
         }
       ]
     },
@@ -56740,7 +58631,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$84.50"
+          "text": "買3件$100.00"
         }
       ]
     },
@@ -56782,7 +58673,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$152.50"
+          "text": "買3件$180.00"
         }
       ]
     },
@@ -56824,7 +58715,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$84.50"
+          "text": "買3件$100.00"
         }
       ]
     },
@@ -56850,7 +58741,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$84.50"
+          "text": "買3件$100.00"
         }
       ]
     },
@@ -57569,7 +59460,7 @@
       "prices": [
         {
           "store": "PARKNSHOP",
-          "price": "168.00"
+          "price": "198.00"
         }
       ],
       "offers": []
@@ -57607,6 +59498,10 @@
         },
         {
           "store": "WATSONS",
+          "price": "24.90"
+        },
+        {
+          "store": "MANNINGS",
           "price": "24.90"
         }
       ],
@@ -59824,7 +61719,7 @@
         },
         {
           "store": "WATSONS",
-          "price": "21.90"
+          "price": "25.90"
         }
       ],
       "offers": []
@@ -60577,10 +62472,6 @@
           "price": "36.00"
         },
         {
-          "store": "WATSONS",
-          "price": "36.00"
-        },
-        {
           "store": "AEON",
           "price": "31.50"
         }
@@ -60597,10 +62488,6 @@
         {
           "store": "JASONS",
           "text": "買2件$58.00"
-        },
-        {
-          "store": "WATSONS",
-          "text": "買2件只需$58"
         },
         {
           "store": "AEON",
@@ -60627,10 +62514,6 @@
           "price": "36.00"
         },
         {
-          "store": "WATSONS",
-          "price": "31.50"
-        },
-        {
           "store": "AEON",
           "price": "31.50"
         }
@@ -60647,10 +62530,6 @@
         {
           "store": "JASONS",
           "text": "買2件$58.00"
-        },
-        {
-          "store": "WATSONS",
-          "text": "買2件只需$58"
         },
         {
           "store": "AEON",
@@ -60968,6 +62847,10 @@
           "price": "26.00"
         },
         {
+          "store": "MANNINGS",
+          "price": "23.00"
+        },
+        {
           "store": "AEON",
           "price": "23.00"
         }
@@ -60988,6 +62871,10 @@
         {
           "store": "WATSONS",
           "text": "買2件只需$43"
+        },
+        {
+          "store": "MANNINGS",
+          "text": "買2件$43.00"
         },
         {
           "store": "AEON",
@@ -61406,7 +63293,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$78.00"
+          "text": "買2件$75.00"
         }
       ]
     },
@@ -61809,7 +63696,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$40.00"
+          "text": "買2件$36.00"
         }
       ]
     },
@@ -65916,6 +67803,60 @@
   ],
   "jetso": [
     {
+      "title": "7-Eleven：本週優惠（至24/11）",
+      "link": "http://www.jetsoclub.com/2026/11/7-eleven2411.html",
+      "pubDate": "2026-11-19T04:30:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "宜家 IKEA：美食站/瑞典餐廳 本月精選（至30/11）",
+      "link": "http://www.jetsoclub.com/2026/11/ikea-3011_0450728160.html",
+      "pubDate": "2026-11-19T03:30:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "一粥麵：新登場 窩蛋和牛肉餅煲仔飯",
+      "link": "http://www.jetsoclub.com/2026/11/blog-post_19.html",
+      "pubDate": "2026-11-19T02:30:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "屈臣氏：買舒適達指定系列牙膏 送總值高達$957.9禮品（至24/11）",
+      "link": "http://www.jetsoclub.com/2026/11/957992411.html",
+      "pubDate": "2026-11-19T01:53:42.882Z",
+      "content": ""
+    },
+    {
+      "title": "7-Eleven：Baileys百利甜酒甜品/烘焙產品",
+      "link": "http://www.jetsoclub.com/2026/11/7-elevenbaileys.html",
+      "pubDate": "2026-11-19T00:45:37.861Z",
+      "content": ""
+    },
+    {
+      "title": "大家樂：茶市學生 惠顧滿$30 即減$3（至31/1）",
+      "link": "http://www.jetsoclub.com/2026/11/30-3311.html",
+      "pubDate": "2026-11-19T00:30:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "759 阿信屋：App﻿會員 買滿$100 享7折（至22/11）",
+      "link": "http://www.jetsoclub.com/2026/11/759-app-100-72211.html",
+      "pubDate": "2026-11-18T23:23:49.004Z",
+      "content": ""
+    },
+    {
+      "title": "惠康超級市場最新優惠（19/11）",
+      "link": "http://www.jetsoclub.com/2026/11/1911_0298689087.html",
+      "pubDate": "2026-11-18T23:05:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "樓上 / 安記 / 大棧 / 尚品：最新優惠（19/11）",
+      "link": "http://www.jetsoclub.com/2026/11/1911_01131231358.html",
+      "pubDate": "2026-11-18T22:31:00.000Z",
+      "content": ""
+    },
+    {
       "title": "百佳超市：低至1折 印花換購 WMF不銹鋼廚具系列（至25/2）",
       "link": "http://www.jetsoclub.com/2026/11/1-wmf252.html",
       "pubDate": "2026-11-18T06:30:00.000Z",
@@ -65931,6 +67872,12 @@
       "title": "Big C：指定分店 購物滿$100 全單享85折（18-24/11）",
       "link": "http://www.jetsoclub.com/2026/11/big-c-100-8518-2411.html",
       "pubDate": "2026-11-18T05:30:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "十字牌：秋冬限定 薑汁撞奶",
+      "link": "http://www.jetsoclub.com/2026/11/blog-post_602.html",
+      "pubDate": "2026-11-18T05:00:00.000Z",
       "content": ""
     },
     {
@@ -66003,66 +67950,6 @@
       "title": "MTR Mobile：港鐵即時賞（18/11）",
       "link": "http://www.jetsoclub.com/2026/11/mtr-mobile1811.html",
       "pubDate": "2026-11-17T22:31:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "OK便利店：5天狂減（18-22/11）",
-      "link": "http://www.jetsoclub.com/2026/11/ok518-2211.html",
-      "pubDate": "2026-11-17T11:39:23.648Z",
-      "content": ""
-    },
-    {
-      "title": " 旅發局：香港繽紛冬日巡禮 - 中環、尖沙咀、銅鑼灣三大「香港冬日小鎮」（18/11-5/1）",
-      "link": "http://www.jetsoclub.com/2026/11/1811-51.html",
-      "pubDate": "2026-11-17T07:49:46.591Z",
-      "content": ""
-    },
-    {
-      "title": "聖安娜：聖誕蛋糕系列 優先預訂 83折（至29/11）",
-      "link": "http://www.jetsoclub.com/2026/11/832911.html",
-      "pubDate": "2026-11-17T07:32:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "AEON：周三新鮮日（18/11）",
-      "link": "http://www.jetsoclub.com/2026/11/aeon1811.html",
-      "pubDate": "2026-11-17T07:07:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "AURA 容祖兒演唱會 加開2場 門票公開發售（18/11起）",
-      "link": "http://www.jetsoclub.com/2026/11/aura-9-1011.html",
-      "pubDate": "2026-11-17T07:05:24.886Z",
-      "content": ""
-    },
-    {
-      "title": "名牌服飾特賣 低至1折（18-23/11）",
-      "link": "http://www.jetsoclub.com/2026/11/118-2311.html",
-      "pubDate": "2026-11-17T05:00:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "海港城・美術館：高田明美 世界名作展2026（至29/11）",
-      "link": "http://www.jetsoclub.com/2026/11/20262911.html",
-      "pubDate": "2026-11-17T04:30:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "壽司郎：「咒術迴戰」聯乘限定商品（17/11起）",
-      "link": "http://www.jetsoclub.com/2026/11/1711_0146375725.html",
-      "pubDate": "2026-11-17T04:00:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "名牌戶外用品．休閒服飾．童書玩具（18-23/11）",
-      "link": "http://www.jetsoclub.com/2026/11/18-2311.html",
-      "pubDate": "2026-11-17T03:30:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "大家樂：午市 飽肚抵食有得揀",
-      "link": "http://www.jetsoclub.com/2026/11/blog-post_17.html",
-      "pubDate": "2026-11-17T03:00:00.000Z",
       "content": ""
     }
   ]
