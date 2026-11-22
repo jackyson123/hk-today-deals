@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
-  "updatedAt": "2026-11-21T17:07:56.891Z",
-  "updatedAtHKT": "22/11/2026 上午1:07:56",
+  "updatedAt": "2026-11-22T05:58:35.117Z",
+  "updatedAtHKT": "22/11/2026 下午1:58:35",
   "priceWatchCount": 2774,
   "jetsoCount": 25,
   "priceWatch": [
@@ -4741,7 +4741,7 @@
         },
         {
           "store": "AEON",
-          "price": "6.50"
+          "price": "6.00"
         }
       ],
       "offers": [
@@ -34464,7 +34464,7 @@
       "prices": [
         {
           "store": "WELLCOME",
-          "price": "35.00"
+          "price": "44.00"
         },
         {
           "store": "PARKNSHOP",
@@ -34472,10 +34472,19 @@
         },
         {
           "store": "JASONS",
-          "price": "37.00"
+          "price": "44.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "WELLCOME",
+          "text": "買1件送1件"
+        },
+        {
+          "store": "JASONS",
+          "text": "買1件送1件"
+        }
+      ]
     },
     {
       "code": "P000002331",
@@ -35987,7 +35996,7 @@
         },
         {
           "store": "AEON",
-          "price": "24.90"
+          "price": "20.00"
         }
       ],
       "offers": []
@@ -48649,10 +48658,6 @@
         {
           "store": "WATSONS",
           "text": "第二件50%折扣"
-        },
-        {
-          "store": "MANNINGS",
-          "text": "第2件半價"
         }
       ]
     },
@@ -49170,10 +49175,6 @@
       ],
       "offers": [
         {
-          "store": "WATSONS",
-          "text": "買2送2"
-        },
-        {
           "store": "MANNINGS",
           "text": "買1件送1件"
         },
@@ -49220,10 +49221,6 @@
           "text": "買1件送1件"
         },
         {
-          "store": "WATSONS",
-          "text": "買2送2"
-        },
-        {
           "store": "MANNINGS",
           "text": "買1件送1件"
         }
@@ -49266,10 +49263,6 @@
           "text": "買1件送1件"
         },
         {
-          "store": "WATSONS",
-          "text": "買2送2"
-        },
-        {
           "store": "MANNINGS",
           "text": "買1件送1件"
         }
@@ -49307,10 +49300,6 @@
         }
       ],
       "offers": [
-        {
-          "store": "WATSONS",
-          "text": "買2送2"
-        },
         {
           "store": "MANNINGS",
           "text": "買1件送1件"
@@ -49354,10 +49343,6 @@
       ],
       "offers": [
         {
-          "store": "WATSONS",
-          "text": "買2送2"
-        },
-        {
           "store": "MANNINGS",
           "text": "買1件送1件"
         },
@@ -49387,10 +49372,6 @@
         }
       ],
       "offers": [
-        {
-          "store": "WATSONS",
-          "text": "買2送2"
-        },
         {
           "store": "MANNINGS",
           "text": "買1件送1件"
@@ -49436,10 +49417,6 @@
         {
           "store": "JASONS",
           "text": "買1件送1件"
-        },
-        {
-          "store": "WATSONS",
-          "text": "買2送2"
         },
         {
           "store": "MANNINGS",
@@ -49490,10 +49467,6 @@
         {
           "store": "JASONS",
           "text": "買1件送1件"
-        },
-        {
-          "store": "WATSONS",
-          "text": "買2送2"
         },
         {
           "store": "MANNINGS",
@@ -49862,10 +49835,6 @@
         {
           "store": "WATSONS",
           "text": "第二件50%折扣"
-        },
-        {
-          "store": "MANNINGS",
-          "text": "第2件半價"
         }
       ]
     },
@@ -49908,10 +49877,6 @@
         {
           "store": "WATSONS",
           "text": "第二件50%折扣"
-        },
-        {
-          "store": "MANNINGS",
-          "text": "第2件半價"
         }
       ]
     },
@@ -50046,10 +50011,6 @@
         {
           "store": "WATSONS",
           "text": "第二件50%折扣"
-        },
-        {
-          "store": "MANNINGS",
-          "text": "第2件半價"
         },
         {
           "store": "SASA",
@@ -50496,10 +50457,6 @@
         {
           "store": "PARKNSHOP",
           "price": "49.90"
-        },
-        {
-          "store": "WATSONS",
-          "price": "34.90"
         },
         {
           "store": "LUNGFUNG",
@@ -51743,7 +51700,7 @@
         },
         {
           "store": "WATSONS",
-          "price": "238.00"
+          "price": "166.00"
         },
         {
           "store": "MANNINGS",
@@ -51757,7 +51714,7 @@
       "offers": [
         {
           "store": "WATSONS",
-          "text": "買1送1"
+          "text": "買2件只需$249"
         },
         {
           "store": "MANNINGS",
@@ -54194,7 +54151,7 @@
         },
         {
           "store": "WATSONS",
-          "text": "買1送1 / 買2送1"
+          "text": "買2送1"
         },
         {
           "store": "MANNINGS",
@@ -56793,7 +56750,7 @@
         },
         {
           "store": "WATSONS",
-          "price": "158.00"
+          "price": "184.00"
         },
         {
           "store": "MANNINGS",
@@ -58420,10 +58377,6 @@
         {
           "store": "WATSONS",
           "text": "第二件50%折扣"
-        },
-        {
-          "store": "MANNINGS",
-          "text": "第2件半價"
         }
       ]
     },
@@ -68140,6 +68093,30 @@
   ],
   "jetso": [
     {
+      "title": "OK便利店：1+1配到抵（至16/12）/ 新登場 港式麵包系列/意式三文治",
+      "link": "http://www.jetsoclub.com/2026/11/ok111612.html",
+      "pubDate": "2026-11-22T03:00:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "GODIVA：全新 Masterpiece 巧克力系列",
+      "link": "http://www.jetsoclub.com/2026/11/godiva-masterpiece.html",
+      "pubDate": "2026-11-22T01:00:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "樓上：最新優惠（22/11）",
+      "link": "http://www.jetsoclub.com/2026/11/2211_0186404106.html",
+      "pubDate": "2026-11-21T22:55:13.848Z",
+      "content": ""
+    },
+    {
+      "title": "百佳超級市場最新優惠（22/11）",
+      "link": "http://www.jetsoclub.com/2026/11/2211.html",
+      "pubDate": "2026-11-21T22:41:45.020Z",
+      "content": ""
+    },
+    {
       "title": "大生生活超市：今期精選優惠（至30/11）",
       "link": "http://www.jetsoclub.com/2026/11/3011_02075895216.html",
       "pubDate": "2026-11-21T06:41:21.409Z",
@@ -68263,30 +68240,6 @@
       "title": "美心西餅：新登場 Oatly「燕麥奶多穀軟包」",
       "link": "http://www.jetsoclub.com/2026/11/oatly.html",
       "pubDate": "2026-11-20T04:15:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "樓上：$2優惠券",
-      "link": "http://www.jetsoclub.com/2026/05/2.html",
-      "pubDate": "2026-11-20T04:00:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "大家樂：火鍋堅料大折日（至23/11）",
-      "link": "http://www.jetsoclub.com/2026/11/2311.html",
-      "pubDate": "2026-11-20T04:00:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "7-Eleven：5天限定（至24/11）",
-      "link": "http://www.jetsoclub.com/2026/11/7-eleven52411.html",
-      "pubDate": "2026-11-20T03:30:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "龍豐：美食狂歡（至26/11）",
-      "link": "http://www.jetsoclub.com/2026/11/2611.html",
-      "pubDate": "2026-11-20T03:00:00.000Z",
       "content": ""
     }
   ]
