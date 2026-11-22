@@ -9,7 +9,7 @@
     "update-data": "node scripts/update-data.js"
   },
   "dependencies": {
-    "next": "14.2.5",
+    "next": "14.2.35",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "rss-parser": "^3.13.0"
