@@ -1,7 +1,7 @@
 {
   "date": "2026-11-28",
-  "updatedAt": "2026-11-27T19:21:30.222Z",
-  "updatedAtHKT": "28/11/2026 上午3:21:30",
+  "updatedAt": "2026-11-28T07:09:32.375Z",
+  "updatedAtHKT": "28/11/2026 下午3:09:32",
   "priceWatchCount": 2753,
   "jetsoCount": 25,
   "priceWatch": [
@@ -3074,7 +3074,7 @@
         },
         {
           "store": "AEON",
-          "price": "38.90"
+          "price": "24.90"
         },
         {
           "store": "DCHFOOD",
@@ -3103,7 +3103,7 @@
         },
         {
           "store": "AEON",
-          "price": "38.90"
+          "price": "24.90"
         },
         {
           "store": "DCHFOOD",
@@ -3153,7 +3153,7 @@
         },
         {
           "store": "AEON",
-          "price": "38.90"
+          "price": "24.90"
         }
       ],
       "offers": []
@@ -10408,7 +10408,7 @@
       "prices": [
         {
           "store": "WELLCOME",
-          "price": "32.00"
+          "price": "36.00"
         },
         {
           "store": "PARKNSHOP",
@@ -10416,7 +10416,7 @@
         },
         {
           "store": "JASONS",
-          "price": "32.00"
+          "price": "36.00"
         },
         {
           "store": "AEON",
@@ -11299,7 +11299,7 @@
       "prices": [
         {
           "store": "PARKNSHOP",
-          "price": "112.00"
+          "price": "105.00"
         }
       ],
       "offers": []
@@ -11456,7 +11456,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "price": "20.90"
+          "price": "19.90"
         },
         {
           "store": "JASONS",
@@ -11570,7 +11570,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "price": "17.50"
+          "price": "14.90"
         },
         {
           "store": "JASONS",
@@ -12468,7 +12468,7 @@
         },
         {
           "store": "AEON",
-          "price": "25.90"
+          "price": "23.90"
         },
         {
           "store": "DCHFOOD",
@@ -12485,7 +12485,7 @@
       "prices": [
         {
           "store": "AEON",
-          "price": "25.90"
+          "price": "23.90"
         }
       ],
       "offers": []
@@ -12828,15 +12828,7 @@
       "category": "糖果 / 餅乾 / 小食",
       "prices": [
         {
-          "store": "WELLCOME",
-          "price": "113.50"
-        },
-        {
           "store": "PARKNSHOP",
-          "price": "113.50"
-        },
-        {
-          "store": "JASONS",
           "price": "113.50"
         }
       ],
@@ -16032,12 +16024,7 @@
           "price": "48.60"
         }
       ],
-      "offers": [
-        {
-          "store": "AEON",
-          "text": "9.00折"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000003226",
@@ -16830,12 +16817,7 @@
           "price": "25.90"
         }
       ],
-      "offers": [
-        {
-          "store": "AEON",
-          "text": "9.00折"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000004867",
@@ -17354,7 +17336,7 @@
       "prices": [
         {
           "store": "WELLCOME",
-          "price": "94.80"
+          "price": "93.80"
         },
         {
           "store": "PARKNSHOP",
@@ -19117,7 +19099,7 @@
       "prices": [
         {
           "store": "WELLCOME",
-          "price": "99.90"
+          "price": "87.90"
         },
         {
           "store": "PARKNSHOP",
@@ -19125,7 +19107,7 @@
         },
         {
           "store": "JASONS",
-          "price": "105.00"
+          "price": "87.90"
         }
       ],
       "offers": []
@@ -21494,7 +21476,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "price": "22.00"
+          "price": "21.00"
         },
         {
           "store": "JASONS",
@@ -22270,7 +22252,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "price": "25.00"
+          "price": "19.00"
         },
         {
           "store": "JASONS",
@@ -22291,7 +22273,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "price": "28.00"
+          "price": "26.00"
         },
         {
           "store": "JASONS",
@@ -24911,12 +24893,7 @@
           "price": "49.00"
         }
       ],
-      "offers": [
-        {
-          "store": "AEON",
-          "text": "9.00折"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000005478",
@@ -25309,12 +25286,7 @@
           "price": "39.90"
         }
       ],
-      "offers": [
-        {
-          "store": "AEON",
-          "text": "9.00折"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000005449",
@@ -25425,12 +25397,7 @@
           "price": "25.00"
         }
       ],
-      "offers": [
-        {
-          "store": "AEON",
-          "text": "9.00折"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000005472",
@@ -25456,12 +25423,7 @@
           "price": "36.90"
         }
       ],
-      "offers": [
-        {
-          "store": "AEON",
-          "text": "9.00折"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000005500",
@@ -25474,12 +25436,7 @@
           "price": "49.90"
         }
       ],
-      "offers": [
-        {
-          "store": "AEON",
-          "text": "9.00折"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000005502",
@@ -25492,12 +25449,7 @@
           "price": "32.90"
         }
       ],
-      "offers": [
-        {
-          "store": "AEON",
-          "text": "9.00折"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000004663",
@@ -26438,7 +26390,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "price": "7.50"
+          "price": "6.00"
         },
         {
           "store": "JASONS",
@@ -26472,7 +26424,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "price": "7.50"
+          "price": "6.00"
         },
         {
           "store": "JASONS",
@@ -26545,7 +26497,7 @@
       "offers": [
         {
           "store": "WELLCOME",
-          "text": "買9件$32.00"
+          "text": "買9件$29.90"
         },
         {
           "store": "PARKNSHOP",
@@ -26553,7 +26505,7 @@
         },
         {
           "store": "JASONS",
-          "text": "買9件$32.00"
+          "text": "買9件$29.90"
         },
         {
           "store": "AEON",
@@ -26587,7 +26539,7 @@
       "offers": [
         {
           "store": "WELLCOME",
-          "text": "買9件$32.00"
+          "text": "買9件$29.90"
         },
         {
           "store": "PARKNSHOP",
@@ -26595,7 +26547,7 @@
         },
         {
           "store": "JASONS",
-          "text": "買9件$32.00"
+          "text": "買9件$29.90"
         },
         {
           "store": "AEON",
@@ -26633,7 +26585,7 @@
       "offers": [
         {
           "store": "WELLCOME",
-          "text": "買9件$32.00"
+          "text": "買9件$29.90"
         },
         {
           "store": "PARKNSHOP",
@@ -26641,7 +26593,7 @@
         },
         {
           "store": "JASONS",
-          "text": "買9件$32.00"
+          "text": "買9件$29.90"
         },
         {
           "store": "AEON",
@@ -26700,7 +26652,7 @@
       "offers": [
         {
           "store": "WELLCOME",
-          "text": "買9件$32.00"
+          "text": "買9件$29.90"
         },
         {
           "store": "PARKNSHOP",
@@ -26708,7 +26660,7 @@
         },
         {
           "store": "JASONS",
-          "text": "買9件$32.00"
+          "text": "買9件$29.90"
         },
         {
           "store": "AEON",
@@ -26788,7 +26740,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "price": "30.00"
+          "price": "28.50"
         },
         {
           "store": "JASONS",
@@ -26826,7 +26778,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "price": "30.00"
+          "price": "28.50"
         },
         {
           "store": "JASONS",
@@ -26906,7 +26858,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "price": "30.00"
+          "price": "28.50"
         },
         {
           "store": "JASONS",
@@ -27194,7 +27146,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "price": "13.00"
+          "price": "11.00"
         },
         {
           "store": "JASONS",
@@ -27212,7 +27164,7 @@
       "offers": [
         {
           "store": "PARKNSHOP",
-          "text": "買2件慳$12.00"
+          "text": "買2件慳$10.00"
         }
       ]
     },
@@ -27847,7 +27799,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "price": "16.90"
+          "price": "13.90"
         },
         {
           "store": "JASONS",
@@ -27902,7 +27854,12 @@
           "price": "11.50"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "PARKNSHOP",
+          "text": "買2件慳$2.50"
+        }
+      ]
     },
     {
       "code": "P000004134",
@@ -27930,10 +27887,15 @@
       "prices": [
         {
           "store": "PARKNSHOP",
-          "price": "12.50"
+          "price": "11.50"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "PARKNSHOP",
+          "text": "買2件慳$2.50"
+        }
+      ]
     },
     {
       "code": "P000004135",
@@ -29537,7 +29499,7 @@
       "offers": [
         {
           "store": "WELLCOME",
-          "text": "醬油四支享9折"
+          "text": "買2件$23.00 / 醬油四支享9折"
         },
         {
           "store": "PARKNSHOP",
@@ -29545,7 +29507,7 @@
         },
         {
           "store": "JASONS",
-          "text": "醬油四支享9折"
+          "text": "買2件$23.00 / 醬油四支享9折"
         }
       ]
     },
@@ -29921,6 +29883,10 @@
         {
           "store": "WELLCOME",
           "text": "醬油四支享9折"
+        },
+        {
+          "store": "PARKNSHOP",
+          "text": "買2件慳$8.00"
         },
         {
           "store": "JASONS",
@@ -31398,7 +31364,7 @@
       "prices": [
         {
           "store": "WELLCOME",
-          "price": "50.00"
+          "price": "42.50"
         },
         {
           "store": "PARKNSHOP",
@@ -31406,23 +31372,14 @@
         },
         {
           "store": "JASONS",
-          "price": "50.00"
+          "price": "42.50"
         },
         {
           "store": "AEON",
           "price": "42.50"
         }
       ],
-      "offers": [
-        {
-          "store": "WELLCOME",
-          "text": "買1件送1件"
-        },
-        {
-          "store": "JASONS",
-          "text": "買1件送1件"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000003160",
@@ -34716,7 +34673,7 @@
       "offers": [
         {
           "store": "AEON",
-          "text": "買2件$46.90 / 9.00折"
+          "text": "買2件$46.90"
         }
       ]
     },
@@ -34747,10 +34704,6 @@
         {
           "store": "PARKNSHOP",
           "text": "買2件慳$7.00"
-        },
-        {
-          "store": "AEON",
-          "text": "9.00折"
         }
       ]
     },
@@ -34796,7 +34749,7 @@
         },
         {
           "store": "AEON",
-          "text": "買3件$39.50 / 9.00折"
+          "text": "買3件$39.50"
         }
       ]
     },
@@ -34876,7 +34829,7 @@
         },
         {
           "store": "AEON",
-          "text": "買3件$39.50 / 9.00折"
+          "text": "買3件$39.50"
         }
       ]
     },
@@ -34922,7 +34875,7 @@
         },
         {
           "store": "AEON",
-          "text": "買3件$39.50 / 9.00折"
+          "text": "買3件$39.50"
         }
       ]
     },
@@ -34968,7 +34921,7 @@
         },
         {
           "store": "AEON",
-          "text": "買3件$39.50 / 9.00折"
+          "text": "買3件$39.50"
         }
       ]
     },
@@ -35082,7 +35035,7 @@
         },
         {
           "store": "AEON",
-          "text": "買3件$39.50 / 9.00折"
+          "text": "買3件$39.50"
         }
       ]
     },
@@ -35124,7 +35077,7 @@
         },
         {
           "store": "AEON",
-          "text": "買3件$39.50 / 9.00折"
+          "text": "買3件$39.50"
         }
       ]
     },
@@ -35201,10 +35154,6 @@
         {
           "store": "JASONS",
           "text": "買3件$52.50"
-        },
-        {
-          "store": "AEON",
-          "text": "9.00折"
         }
       ]
     },
@@ -35246,7 +35195,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$29.90 / 9.00折"
+          "text": "買2件$29.90"
         }
       ]
     },
@@ -35288,7 +35237,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$29.90 / 9.00折"
+          "text": "買2件$29.90"
         }
       ]
     },
@@ -35330,7 +35279,7 @@
         },
         {
           "store": "AEON",
-          "text": "買2件$29.90 / 9.00折"
+          "text": "買2件$29.90"
         }
       ]
     },
@@ -35361,10 +35310,6 @@
         {
           "store": "PARKNSHOP",
           "text": "買2件慳$14.00"
-        },
-        {
-          "store": "AEON",
-          "text": "9.00折"
         }
       ]
     },
@@ -35387,10 +35332,6 @@
         {
           "store": "PARKNSHOP",
           "text": "買2件慳$14.00"
-        },
-        {
-          "store": "AEON",
-          "text": "9.00折"
         }
       ]
     },
@@ -35417,12 +35358,7 @@
           "price": "16.90"
         }
       ],
-      "offers": [
-        {
-          "store": "AEON",
-          "text": "9.00折"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000003948",
@@ -35581,7 +35517,7 @@
         },
         {
           "store": "AEON",
-          "text": "買3件$54.00 / 9.00折"
+          "text": "買3件$54.00"
         }
       ]
     },
@@ -35615,7 +35551,7 @@
         },
         {
           "store": "AEON",
-          "text": "買3件$54.00 / 9.00折"
+          "text": "買3件$54.00"
         }
       ]
     },
@@ -35641,7 +35577,7 @@
         },
         {
           "store": "AEON",
-          "text": "買3件$54.00 / 9.00折"
+          "text": "買3件$54.00"
         }
       ]
     },
@@ -36238,10 +36174,6 @@
         {
           "store": "JASONS",
           "text": "買2件$49.90"
-        },
-        {
-          "store": "AEON",
-          "text": "9.00折"
         }
       ]
     },
@@ -36264,12 +36196,7 @@
           "price": "45.90"
         }
       ],
-      "offers": [
-        {
-          "store": "AEON",
-          "text": "9.00折"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000004812",
@@ -36489,12 +36416,7 @@
           "price": "46.00"
         }
       ],
-      "offers": [
-        {
-          "store": "AEON",
-          "text": "9.00折"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000003726",
@@ -36653,7 +36575,7 @@
         },
         {
           "store": "AEON",
-          "text": "買3件$50.00 / 9.00折"
+          "text": "買3件$50.00"
         }
       ]
     },
@@ -36695,7 +36617,7 @@
         },
         {
           "store": "AEON",
-          "text": "買3件$50.00 / 9.00折"
+          "text": "買3件$50.00"
         }
       ]
     },
@@ -36718,12 +36640,7 @@
           "price": "55.00"
         }
       ],
-      "offers": [
-        {
-          "store": "AEON",
-          "text": "9.00折"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000003498",
@@ -36744,12 +36661,7 @@
           "price": "34.90"
         }
       ],
-      "offers": [
-        {
-          "store": "AEON",
-          "text": "9.00折"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000004428",
@@ -37260,7 +37172,7 @@
       "prices": [
         {
           "store": "PARKNSHOP",
-          "price": "46.00"
+          "price": "42.00"
         },
         {
           "store": "WATSONS",
@@ -37509,7 +37421,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "price": "46.00"
+          "price": "42.00"
         },
         {
           "store": "JASONS",
@@ -39148,7 +39060,7 @@
       "offers": [
         {
           "store": "PARKNSHOP",
-          "text": "買2件慳$3"
+          "text": "Buy 2 to save $3.00"
         }
       ]
     },
@@ -39453,6 +39365,10 @@
           "text": "買2件$34.00"
         },
         {
+          "store": "PARKNSHOP",
+          "text": "買2件慳$4.00"
+        },
+        {
           "store": "JASONS",
           "text": "買2件$34.00"
         }
@@ -39481,6 +39397,10 @@
         {
           "store": "WELLCOME",
           "text": "買2件$34.00"
+        },
+        {
+          "store": "PARKNSHOP",
+          "text": "買2件慳$4.00"
         },
         {
           "store": "JASONS",
@@ -41047,7 +40967,7 @@
       "offers": [
         {
           "store": "PARKNSHOP",
-          "text": "買2件$42"
+          "text": "Buy 2 at $42.00"
         }
       ]
     },
@@ -41222,7 +41142,7 @@
       "offers": [
         {
           "store": "PARKNSHOP",
-          "text": "買2件慳$4"
+          "text": "Buy 2 to save $4.00"
         }
       ]
     },
@@ -43010,12 +42930,7 @@
           "price": "359.00"
         }
       ],
-      "offers": [
-        {
-          "store": "PARKNSHOP",
-          "text": "全線精選嬰兒奶粉買4件，可享88折優惠。"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000003112",
@@ -43048,12 +42963,7 @@
           "price": "355.00"
         }
       ],
-      "offers": [
-        {
-          "store": "PARKNSHOP",
-          "text": "全線精選嬰兒奶粉買4件，可享88折優惠。"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000003113",
@@ -43086,12 +42996,7 @@
           "price": "330.00"
         }
       ],
-      "offers": [
-        {
-          "store": "PARKNSHOP",
-          "text": "全線精選嬰兒奶粉買4件，可享88折優惠。"
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000003355",
@@ -43326,7 +43231,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "text": "買2件慳$60.00 / Buy 2 to save $60.00"
+          "text": "Buy 2 to save $60.00"
         },
         {
           "store": "JASONS",
@@ -43380,7 +43285,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "text": "買2件慳$54.00 / Buy 2 to save $54.00"
+          "text": "Buy 2 to save $54.00"
         },
         {
           "store": "JASONS",
@@ -43434,7 +43339,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "text": "買2件慳$44.00 / Buy 2 to save $44.00"
+          "text": "Buy 2 to save $44.00"
         },
         {
           "store": "JASONS",
@@ -43503,7 +43408,7 @@
         },
         {
           "store": "WATSONS",
-          "price": "418.00"
+          "price": "376.20"
         },
         {
           "store": "MANNINGS",
@@ -43653,7 +43558,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "text": "買3件送1件 / Buy 3 Get 1 Free"
+          "text": "Buy 3 Get 1 Free"
         },
         {
           "store": "JASONS",
@@ -43707,7 +43612,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "text": "買3件送1件 / Buy 3 Get 1 Free"
+          "text": "Buy 3 Get 1 Free"
         },
         {
           "store": "JASONS",
@@ -43761,7 +43666,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "text": "買3件送1件 / Buy 3 Get 1 Free"
+          "text": "Buy 3 Get 1 Free"
         },
         {
           "store": "JASONS",
@@ -43844,7 +43749,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "text": "買3件送1件 / Buy 3 Get 1 Free"
+          "text": "Buy 3 Get 1 Free"
         },
         {
           "store": "JASONS",
@@ -43898,7 +43803,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "text": "買3件送1件 / Buy 3 Get 1 Free"
+          "text": "Buy 3 Get 1 Free"
         },
         {
           "store": "JASONS",
@@ -44178,12 +44083,7 @@
           "price": "238.00"
         }
       ],
-      "offers": [
-        {
-          "store": "PARKNSHOP",
-          "text": "Purchase 4 pc of Selected baby milk, enjoy 12% off."
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000003175",
@@ -44216,12 +44116,7 @@
           "price": "240.00"
         }
       ],
-      "offers": [
-        {
-          "store": "PARKNSHOP",
-          "text": "Purchase 4 pc of Selected baby milk, enjoy 12% off."
-        }
-      ]
+      "offers": []
     },
     {
       "code": "P000002420",
@@ -46622,7 +46517,7 @@
         },
         {
           "store": "WATSONS",
-          "price": "162.00"
+          "price": "150.00"
         },
         {
           "store": "MANNINGS",
@@ -46838,6 +46733,10 @@
           "text": "第2件半價"
         },
         {
+          "store": "PARKNSHOP",
+          "text": "買2件慳$25.00"
+        },
+        {
           "store": "JASONS",
           "text": "第2件半價"
         },
@@ -46882,6 +46781,10 @@
         {
           "store": "WELLCOME",
           "text": "第2件半價"
+        },
+        {
+          "store": "PARKNSHOP",
+          "text": "買2件慳$25.00"
         },
         {
           "store": "JASONS",
@@ -47314,6 +47217,10 @@
         {
           "store": "WELLCOME",
           "text": "第2件半價"
+        },
+        {
+          "store": "WATSONS",
+          "text": "第二件50%折扣"
         }
       ]
     },
@@ -47377,6 +47284,10 @@
         {
           "store": "JASONS",
           "text": "第2件半價"
+        },
+        {
+          "store": "WATSONS",
+          "text": "第二件50%折扣"
         }
       ]
     },
@@ -49703,10 +49614,6 @@
         {
           "store": "WATSONS",
           "text": "第二件50%折扣"
-        },
-        {
-          "store": "SASA",
-          "text": "2件9折 50 Megumi 精選產品"
         }
       ]
     },
@@ -49826,7 +49733,12 @@
           "price": "48.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "WATSONS",
+          "text": "第二件50%折扣"
+        }
+      ]
     },
     {
       "code": "P000005191",
@@ -49949,6 +49861,10 @@
         {
           "store": "JASONS",
           "text": "第2件半價"
+        },
+        {
+          "store": "WATSONS",
+          "text": "第二件50%折扣"
         }
       ]
     },
@@ -50614,7 +50530,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "price": "50.00"
+          "price": "49.90"
         },
         {
           "store": "JASONS",
@@ -50634,6 +50550,22 @@
         }
       ],
       "offers": [
+        {
+          "store": "WELLCOME",
+          "text": "買1件送1件"
+        },
+        {
+          "store": "PARKNSHOP",
+          "text": "買2件慳$49.90"
+        },
+        {
+          "store": "JASONS",
+          "text": "買1件送1件"
+        },
+        {
+          "store": "WATSONS",
+          "text": "買1送1"
+        },
         {
           "store": "MANNINGS",
           "text": "買1件送1件"
@@ -50853,6 +50785,10 @@
         }
       ],
       "offers": [
+        {
+          "store": "WATSONS",
+          "text": "第二件50%折扣"
+        },
         {
           "store": "AEON",
           "text": "買2件$59.90"
@@ -51274,7 +51210,7 @@
         },
         {
           "store": "SASA",
-          "price": "132.80"
+          "price": "166.00"
         }
       ],
       "offers": [
@@ -51420,7 +51356,12 @@
           "price": "38.90"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "WATSONS",
+          "text": "第二件50%折扣"
+        }
+      ]
     },
     {
       "code": "P000003360",
@@ -51445,7 +51386,12 @@
           "price": "40.90"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "WATSONS",
+          "text": "第二件50%折扣"
+        }
+      ]
     },
     {
       "code": "P000001201",
@@ -51593,7 +51539,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "price": "34.00"
+          "price": "31.90"
         },
         {
           "store": "JASONS",
@@ -51811,14 +51757,19 @@
         },
         {
           "store": "PARKNSHOP",
-          "price": "43.00"
+          "price": "42.90"
         },
         {
           "store": "JASONS",
           "price": "30.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "PARKNSHOP",
+          "text": "買2件慳$30.80"
+        }
+      ]
     },
     {
       "code": "P000003083",
@@ -52188,7 +52139,7 @@
       "prices": [
         {
           "store": "SASA",
-          "price": "50.00"
+          "price": "61.00"
         },
         {
           "store": "LUNGFUNG",
@@ -52225,7 +52176,7 @@
         },
         {
           "store": "SASA",
-          "price": "29.20"
+          "price": "38.90"
         },
         {
           "store": "LUNGFUNG",
@@ -52553,7 +52504,7 @@
         },
         {
           "store": "SASA",
-          "price": "16.90"
+          "price": "22.00"
         }
       ],
       "offers": []
@@ -52660,7 +52611,12 @@
           "price": "215.00"
         }
       ],
-      "offers": []
+      "offers": [
+        {
+          "store": "MANNINGS",
+          "text": "精選潔美淨產品7折"
+        }
+      ]
     },
     {
       "code": "P000003632",
@@ -52717,7 +52673,7 @@
       "prices": [
         {
           "store": "WELLCOME",
-          "price": "36.90"
+          "price": "29.90"
         },
         {
           "store": "PARKNSHOP",
@@ -52725,11 +52681,11 @@
         },
         {
           "store": "JASONS",
-          "price": "36.90"
+          "price": "29.90"
         },
         {
           "store": "WATSONS",
-          "price": "36.90"
+          "price": "27.00"
         },
         {
           "store": "SASA",
@@ -52758,7 +52714,7 @@
         },
         {
           "store": "WATSONS",
-          "price": "29.90"
+          "price": "27.00"
         },
         {
           "store": "SASA",
@@ -52783,7 +52739,7 @@
         },
         {
           "store": "WATSONS",
-          "price": "29.90"
+          "price": "27.00"
         },
         {
           "store": "AEON",
@@ -52918,6 +52874,10 @@
       "name": "持采 UV 高效防曬水凝乳 SPF50+ PA++++ 90克",
       "category": "個人護理",
       "prices": [
+        {
+          "store": "WATSONS",
+          "price": "189.00"
+        },
         {
           "store": "AEON",
           "price": "189.00"
@@ -53318,7 +53278,7 @@
         },
         {
           "store": "SASA",
-          "price": "52.90"
+          "price": "37.90"
         },
         {
           "store": "LUNGFUNG",
@@ -53377,11 +53337,11 @@
       "prices": [
         {
           "store": "PARKNSHOP",
-          "price": "59.90"
+          "price": "49.90"
         },
         {
           "store": "WATSONS",
-          "price": "59.90"
+          "price": "49.90"
         },
         {
           "store": "MANNINGS",
@@ -53621,7 +53581,7 @@
         },
         {
           "store": "SASA",
-          "price": "36.00"
+          "price": "59.90"
         },
         {
           "store": "LUNGFUNG",
@@ -54608,10 +54568,6 @@
           "price": "79.80"
         },
         {
-          "store": "SASA",
-          "price": "59.00"
-        },
-        {
           "store": "LUNGFUNG",
           "price": "53.00"
         }
@@ -55506,7 +55462,7 @@
         },
         {
           "store": "SASA",
-          "price": "30.00"
+          "price": "32.50"
         },
         {
           "store": "LUNGFUNG",
@@ -56114,7 +56070,7 @@
         },
         {
           "store": "MANNINGS",
-          "price": "10.90"
+          "price": "8.90"
         },
         {
           "store": "AEON",
@@ -59199,11 +59155,11 @@
       "offers": [
         {
           "store": "WELLCOME",
-          "text": "買2件$115.00"
+          "text": "買1件送1件"
         },
         {
           "store": "JASONS",
-          "text": "買2件$115.00"
+          "text": "買1件送1件"
         }
       ]
     },
@@ -59237,11 +59193,11 @@
       "offers": [
         {
           "store": "WELLCOME",
-          "text": "買2件$115.00"
+          "text": "買1件送1件"
         },
         {
           "store": "JASONS",
-          "text": "買2件$115.00"
+          "text": "買1件送1件"
         }
       ]
     },
@@ -63151,7 +63107,7 @@
         },
         {
           "store": "PARKNSHOP",
-          "price": "40.90"
+          "price": "39.90"
         },
         {
           "store": "JASONS",
@@ -67437,6 +67393,66 @@
   ],
   "jetso": [
     {
+      "title": "美心：賀年食品禮券 優先推廣（至15/12）",
+      "link": "http://www.jetsoclub.com/2026/11/1512.html",
+      "pubDate": "2026-11-28T05:00:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "千色 Citistore：聖誕購物日（至28/12）",
+      "link": "http://www.jetsoclub.com/2026/11/citistore2812_01244406082.html",
+      "pubDate": "2026-11-28T03:30:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "海港飲食：冬至・鮑魚・花膠 尚品鍋",
+      "link": "http://www.jetsoclub.com/2026/11/blog-post_677.html",
+      "pubDate": "2026-11-28T03:00:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "永年士多：晚市二人餐 $99",
+      "link": "http://www.jetsoclub.com/2026/11/99.html",
+      "pubDate": "2026-11-28T02:30:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "聖安娜：新產品 雪山叉燒包",
+      "link": "http://www.jetsoclub.com/2026/11/blog-post_28.html",
+      "pubDate": "2026-11-28T01:29:19.545Z",
+      "content": ""
+    },
+    {
+      "title": "美心MX：全新「漢堡扒系列」早餐",
+      "link": "http://www.jetsoclub.com/2026/11/mx_0459722714.html",
+      "pubDate": "2026-11-28T00:50:03.569Z",
+      "content": ""
+    },
+    {
+      "title": "屈臣氏：最新優惠（28/11）",
+      "link": "http://www.jetsoclub.com/2026/11/2811_0612342346.html",
+      "pubDate": "2026-11-28T00:40:00.000Z",
+      "content": ""
+    },
+    {
+      "title": "百佳超級市場最新優惠（28/11）",
+      "link": "http://www.jetsoclub.com/2026/11/2811_0909224182.html",
+      "pubDate": "2026-11-28T00:29:12.177Z",
+      "content": ""
+    },
+    {
+      "title": "惠康超級市場最新優惠（28/11）",
+      "link": "http://www.jetsoclub.com/2026/11/2811_0866802017.html",
+      "pubDate": "2026-11-27T23:43:27.086Z",
+      "content": ""
+    },
+    {
+      "title": "萬寧：最新優惠（28/11）",
+      "link": "http://www.jetsoclub.com/2026/11/2811.html",
+      "pubDate": "2026-11-27T23:30:52.376Z",
+      "content": ""
+    },
+    {
       "title": "龍豐：美食狂歡（至3/12）",
       "link": "http://www.jetsoclub.com/2026/11/312_0293177113.html",
       "pubDate": "2026-11-27T08:00:00.000Z",
@@ -67524,66 +67540,6 @@
       "title": "大家樂：火鍋堅料大折日（至30/11）",
       "link": "http://www.jetsoclub.com/2026/11/3011_01352731773.html",
       "pubDate": "2026-11-27T01:45:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "The Overlander：野外用品開倉日2026（至28/11）",
-      "link": "http://www.jetsoclub.com/2026/11/the-overlander20262811.html",
-      "pubDate": "2026-11-27T01:15:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "Daiso Japan / Living Plaza：週末優惠（至29/11）",
-      "link": "http://www.jetsoclub.com/2026/11/daiso-japan-living-plaza2911.html",
-      "pubDate": "2026-11-27T01:00:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "眼鏡88：開倉清貨（至1/12）",
-      "link": "http://www.jetsoclub.com/2026/11/88112.html",
-      "pubDate": "2026-11-27T00:55:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "牙膏最新優惠（27/11）",
-      "link": "http://www.jetsoclub.com/2026/11/2711_01516737768.html",
-      "pubDate": "2026-11-27T00:45:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "阿波羅：Black Friday 優惠（至29/11）",
-      "link": "http://www.jetsoclub.com/2026/11/black-friday-2911.html",
-      "pubDate": "2026-11-27T00:30:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "萬寧：周五購物攻略（27/11）",
-      "link": "http://www.jetsoclub.com/2026/11/2711_01710425832.html",
-      "pubDate": "2026-11-26T23:36:04.151Z",
-      "content": ""
-    },
-    {
-      "title": "屈臣氏最新購物優惠（27/11）",
-      "link": "http://www.jetsoclub.com/2026/11/2711_02028384600.html",
-      "pubDate": "2026-11-26T23:30:00.000Z",
-      "content": ""
-    },
-    {
-      "title": "惠康超級市場最新優惠（27/11）",
-      "link": "http://www.jetsoclub.com/2026/11/2711_0445945731.html",
-      "pubDate": "2026-11-26T23:08:51.664Z",
-      "content": ""
-    },
-    {
-      "title": "百佳超級市場最新優惠（27/11）",
-      "link": "http://www.jetsoclub.com/2026/11/2711.html",
-      "pubDate": "2026-11-26T23:07:53.872Z",
-      "content": ""
-    },
-    {
-      "title": "MTR Mobile：港鐵即時賞（27/11）",
-      "link": "http://www.jetsoclub.com/2026/11/mtr-mobile2711.html",
-      "pubDate": "2026-11-26T22:30:00.000Z",
       "content": ""
     }
   ]
